@@ -1,152 +1,185 @@
 {
-  "name": "Universus",
-  "menuBackgroundImage": "https://imgs.search.brave.com/z0-m7vqyCUI_WoR7FsWda-1HiXGmyGqvxUdFR_8Ozgg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91dnNn/YW1lcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/SGVyby1TaG9ydC1E/ZXNrdG9wXzJ4X0Nh/cmRDb2xsYWdlLXNj/YWxlZC5qcGc",
-  "defaultRessources": {
-    "backgrounds": [],
-    "decksUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusPrebuiltDecks.json"
-  },
-  "customHelp": "Universus Help Message",
-  "cardRotation": "90",
-  "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusCardList.json",
-    "cardBack": "https://cf.geekdo-images.com/Ut1fKAXkokVpg0w8NxG52w__imagepage/img/FxZXh1g9ai12tPhPS8XDrP_Q068=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7993223.jpg"
-  },
-  "deckBuilding": {
-    "mainFilters": [
-      "Symbol",
-      "Set",
-      "Keyword"
-    ],
-    "formats": [
-      {
-        "title": "Classic",
-        "gameplay": "Classic"
-      }
-    ]
-  },
-  "gameplay": {
-    "Classic": {
-      "mulligan": {
-        "info": "",
-        "startingHandSize": "0",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
-      },
-      "newTurn": {
-        "drawOnStart": false,
-        "sharedTurn": false,
-        "firstPlayerTokenName": "",
-        "drawPerTurn": "0"
-      },
-      "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Roman Cancel",
-          "image": "https://universus.cards/cards/ggs01/000.webp",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        }
-      ],
-      "countersStartingValues": [
-        "38"
-      ],
-      "hideFacedDownCards": false,
-      "sections": {
-        "customSections": [
-          "Stage",
-          "Character",
-          "Card_Pool"
+    "name": "Universus",
+    "menuBackgroundImage": "https://imgs.search.brave.com/z0-m7vqyCUI_WoR7FsWda-1HiXGmyGqvxUdFR_8Ozgg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91dnNn/YW1lcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/SGVyby1TaG9ydC1E/ZXNrdG9wXzJ4X0Nh/cmRDb2xsYWdlLXNj/YWxlZC5qcGc",
+    "defaultRessources": {
+        "backgrounds": [],
+        "decksUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusPrebuiltDecks.json"
+    },
+    "customHelp": "Universus Help Message",
+    "cardRotation": "90",
+    "cards": {
+        "dataUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusCardList.json",
+        "cardBack": "https://cf.geekdo-images.com/Ut1fKAXkokVpg0w8NxG52w__imagepage/img/FxZXh1g9ai12tPhPS8XDrP_Q068=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7993223.jpg"
+    },
+    "deckBuilding": {
+        "mainFilters": [
+            "Symbol",
+            "Set",
+            "Keyword"
         ],
-        "layout": {
-          "direction": "column",
-          "isSymetricalForOpponents": false,
-          "content": [
+        "formats": [
             {
-              "direction": "column",
-              "content": [
+                "title": "Classic",
+                "gameplay": "Classic"
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "",
+                "startingHandSize": "0",
+                "drawNewHand": true,
+                "putSelectionAtBottom": false,
+                "drawNewSelectedCards": false
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false,
+                "firstPlayerTokenName": "",
+                "drawPerTurn": "0"
+            },
+            "defaultNotes": "",
+            "tokens": [
                 {
-                  "section": "Card_Pool"  
+                    "name": "Roman Cancel",
+                    "image": "https://universus.cards/cards/ggs01/000.webp",
+                    "isUnique": false,
+                    "leavesAtEndOfTurn": false
+                }
+            ],
+            "countersStartingValues": [
+                "38"
+            ],
+            "hideFacedDownCards": false,
+            "draggableTokens": [
+                {
+                    "id": "highToken",
+                    "name": "High",
+                    "image": "https://token1.png"
                 },
                 {
-                  "direction": "row",
-                  "style": {
-                    "justifyContent": "start"
-                  },
-                  "content": [
-                    {
-                      "section": "Character",
-                      "style": {
-                        "width": "2vh"
-                      }
-                    },
-                    {
-                      "section": "Stage"
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                    "id": "midToken",
+                    "name": "Mid",
+                    "image": "https://token2.png"
+                },
+                {
+                    "id": "lowToken",
+                    "name": "Low",
+                    "image": "https://token2.png"
+                },
+                {
+                    "id": "freezeToken",
+                    "name": "Frozen",
+                    "image": "https://universus.cards/icons/new/air.webp"
+                },
+                {
+                    "id": "sealedToken",
+                    "name": "Sealed",
+                    "image": "https://universus.cards/icons/new/void.webp"
                 }
-              ],
-              "isSymetricalForOpponents": false
+            ],
+            "sections": {
+                "customSections": [
+                    "Stage",
+                    "Character",
+                    "Card_Pool"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "isSymetricalForOpponents": false,
+                    "content": [
+                        {
+                            "direction": "column",
+                            "content": [
+                                {
+                                    "section": "Card_Pool"
+                                },
+                                {
+                                    "direction": "row",
+                                    "style": {
+                                        "justifyContent": "start"
+                                    },
+                                    "content": [
+                                        {
+                                            "section": "Character",
+                                            "style": {
+                                                "width": "2vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "Stage"
+                                        }
+                                    ],
+                                    "isSymetricalForOpponents": false
+                                }
+                            ],
+                            "isSymetricalForOpponents": false
+                        }
+                    ]
+                },
+                "categoriesAlreadyOnBoard": [
+                    "Character"
+                ],
+                "autoPlayFromHand": {
+                    "Foundation": "Card_Pool",
+                    "Attack": "Card_Pool",
+                    "Asset": "Card_Pool",
+                    "Backup": "Card_Pool",
+                    "Action": "Card_Pool"
+                },
+                "autoPlayFromStack": {},
+                "sectionsDict": {
+                    "Card_Pool": {
+                        "title": "Card_Pool",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Card Pool",
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": true,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "noQuickActions": false
+                    },
+                    "Character": {
+                        "title": "Character",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Character",
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": true,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "noQuickActions": false
+                    },
+                    "Stage": {
+                        "title": "Stage",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Stage",
+                        "enterTapped": false,
+                        "enterSpun": false,
+                        "isGroupForbidden": true,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "noQuickActions": false
+                    }
+                }
             }
-          ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Character"
-        ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
-        "sectionsDict": {
-          "Card_Pool": {
-            "title": "Card_Pool",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Card Pool",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "Character": {
-            "title": "Character",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Character",
-            "enterTapped": true,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "Stage": {
-            "title": "Stage",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Stage",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          }
         }
-      }
     }
-  }
 }
