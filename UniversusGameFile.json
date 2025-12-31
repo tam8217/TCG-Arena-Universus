@@ -112,6 +112,38 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
+          },
+          "Character": {
+            "title": "Character",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Character",
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Stage": {
+            "title": "Stage",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Stage",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
           }
         }
       }
