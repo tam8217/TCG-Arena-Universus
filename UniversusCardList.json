@@ -1,0 +1,552 @@
+{
+  "CB02-1": {
+    "id": "CB02-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spike, Bounty Hunter",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/cb02/001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spike, Bounty Hunter",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-1s": {
+    "id": "CB02-1s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spike, Bounty Hunter",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/csbebop/101.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spike, Bounty Hunter",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-2": {
+    "id": "CB02-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faye, Queen of Hearts",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/cb02/002.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faye, Queen of Hearts",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Life",
+      "Water"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-2s": {
+    "id": "CB02-2s",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faye, Queen of Hearts",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/csbebop/102.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faye, Queen of Hearts",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Life",
+      "Water"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-3": {
+    "id": "CB02-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Welcome to Space Land",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://universus.cards/cards/cb02/003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Welcome to Space Land",
+    "type": "Action",
+    "cost": 0,
+    "Symbol": [
+      "Fire",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "3",
+    "Check Value": "4",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-4": {
+    "id": "CB02-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ein",
+        "type": "Asset",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/004.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ein",
+    "type": "Asset",
+    "cost": 0,
+    "Symbol": [
+      "Life",
+      "Void",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-5": {
+    "id": "CB02-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Questioning Threat",
+        "type": "Attack",
+        "cost": "3",
+        "image": "https://universus.cards/cards/cb02/005.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Questioning Threat",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "3",
+    "Check Value": "3",
+    "Keyword": [
+      "Ranged"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-6": {
+    "id": "CB02-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fallen Angel's Revenge",
+        "type": false,
+        "cost": "5",
+        "image": "https://universus.cards/cards/cb02/006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fallen Anger's Revenge",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "5",
+    "Check Value": "3",
+    "Keyword": [
+      "Ranged"
+    ],
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-7": {
+    "id": "CB02-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Falling Heel Strike",
+        "type": "Attack",
+        "cost": "4",
+        "image": "https://universus.cards/cards/cb02/007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Falling Heel Strike",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "4",
+    "Check Value": "3",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-8": {
+    "id": "CB02-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "High Roundhouse Kick",
+        "type": "Attack",
+        "cost": "4",
+        "image": "https://universus.cards/cards/cb02/008.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "High Roundhouse Kick",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "4",
+    "Check Value": "3",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-9": {
+    "id": "CB02-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hunter's Pursuit",
+        "type": "Attack",
+        "cost": "4",
+        "image": "https://universus.cards/cards/cb02/009.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunter's Pursuit",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "5",
+    "Check Value": "3",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-10": {
+    "id": "CB02-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jaw Jammer",
+        "type": "Attack",
+        "cost": "4",
+        "image": "https://universus.cards/cards/cb02/010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jaw Jammer",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "4",
+    "Check Value": "3",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-11": {
+    "id": "CB02-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Split-Second Standoff",
+        "type": "Attack",
+        "cost": "6",
+        "image": "https://universus.cards/cards/cb02/011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spit-Second Standoff",
+    "type": "Attack",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "6",
+    "Check Value": "3",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-12": {
+    "id": "CB02-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leaving The Bebop",
+        "type": "Foundation",
+        "cost": "3",
+        "image": "https://universus.cards/cards/cb02/012.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leaving The Bebop",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "All",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "3",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-13": {
+    "id": "CB02-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ending The Dream",
+        "type": "Foundation",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ending The Dream",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-14": {
+    "id": "CB02-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fast Friendship",
+        "type": "Foundation",
+        "cost": "1",
+        "image": "https://universus.cards/cards/cb02/014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fast Friendship",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "1",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-15": {
+    "id": "CB02-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finally Awake",
+        "type": "Foundation",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finally Awake",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-16": {
+    "id": "CB02-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Light It Up",
+        "type": "Foundation",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/016.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Light It Up",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-17": {
+    "id": "CB02-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nothing Like Andy",
+        "type": "Foundation",
+        "cost": "1",
+        "image": "https://universus.cards/cards/cb02/017.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nothing Like Andy",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "1",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-18": {
+    "id": "CB02-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sing For Me",
+        "type": "Foundation",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/018.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sing For Me",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-19": {
+    "id": "CB02-19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skeptical",
+        "type": "Foundation",
+        "cost": "1",
+        "image": "https://universus.cards/cards/cb02/019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skeptical",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "1",
+    "Check Value": "4",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-20": {
+    "id": "CB02-20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Syndicate Target",
+        "type": "Foundation",
+        "cost": 0,
+        "image": "https://universus.cards/cards/cb02/020.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Syndicate Target",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": 0,
+    "Check Value": "6",
+    "Set": "Challenger: Cowboy Bebop"
+  },
+  "CB02-21": {
+    "id": "CB02-21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fateful Meeting",
+        "type": "Foundation",
+        "cost": "2",
+        "image": "https://universus.cards/cards/cb02/021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fateful Meeting",
+    "type": "Foundation",
+    "cost": 0,
+    "Symbol": [
+      "Earth",
+      "Life",
+      "Water"
+    ],
+    "Difficulty": "2",
+    "Check Value": "5",
+    "Set": "Challenger: Cowboy Bebop"
+  }
+}
