@@ -17,7 +17,9 @@
       "Set",
       "Keyword"
     ],
-    "formats": ["Classic"]
+    "formats": [
+      "Classic"
+    ]
   },
   "gameplay": {
     "Classic": {
