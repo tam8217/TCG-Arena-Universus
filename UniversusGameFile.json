@@ -41,14 +41,6 @@
                 "drawPerTurn": "0"
             },
             "defaultNotes": "",
-            "tokens": [
-                {
-                    "name": "Roman Cancel",
-                    "image": "https://universus.cards/cards/ggs01/000.webp",
-                    "isUnique": false,
-                    "leavesAtEndOfTurn": false
-                }
-            ],
             "countersStartingValues": [
                 "38" 
             ],
@@ -84,6 +76,7 @@
                 "customSections": [
                     "Stage",
                     "Character",
+                    "Momentum",
                     "Card_Pool"
                 ],
                 "layout": {
@@ -104,6 +97,12 @@
                                     "content": [
                                         {
                                             "section": "Character",
+                                            "style": {
+                                                "width": "10vh"
+                                            }
+                                        },
+                                        {
+                                            "section": "Momentum",
                                             "style": {
                                                 "width": "10vh"
                                             }
@@ -134,7 +133,7 @@
                     "Card_Pool": {
                         "title": "Card_Pool",
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "SMALL",
                         "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
@@ -145,17 +144,41 @@
                         "isGroupForbidden": true,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
-                        "noQuickActions": false
+                        "noQuickActions": false,
+                        "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData":
+                            {
+                                "destination": "Character",
+                                "position": "BOTTOM"
+                            }
+                        }
                     },
                     "Character": {
                         "title": "Character",
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "SMALL",
                         "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Character",
+                        "enterTapped": true,
+                        "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false,
+                        "noQuickActions": false
+                    },
+                    "Momentum": {
+                        "title": "Momentum",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Momentum",
                         "enterTapped": true,
                         "enterSpun": false,
                         "isGroupForbidden": false,
