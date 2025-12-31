@@ -140,7 +140,7 @@
                     "Card_Pool": {
                         "title": "Card_Pool",
                         "isHidden": "no",
-                        "height": "LARGE",
+                        "height": "BIG",
                         "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
@@ -189,7 +189,7 @@
                         "title": "Stage",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "START",
+                        "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
