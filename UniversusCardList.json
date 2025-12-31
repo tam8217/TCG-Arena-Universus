@@ -133,6 +133,10 @@
     ],
     "Difficulty": "2",
     "Check Value": "5",
+    "Keyword": [
+      "Ally",
+      "Unique"
+    ],
     "Set": "Challenger: Cowboy Bebop"
   },
   "CB02-5": {
@@ -211,6 +215,9 @@
     ],
     "Difficulty": "4",
     "Check Value": "3",
+    "Keyword": [
+      "Kick"
+    ],
     "Set": "Challenger: Cowboy Bebop"
   },
   "CB02-8": {
@@ -235,6 +242,9 @@
     ],
     "Difficulty": "4",
     "Check Value": "3",
+    "Keyword": [
+      "Kick"
+    ],
     "Set": "Challenger: Cowboy Bebop"
   },
   "CB02-9": {
@@ -259,6 +269,11 @@
     ],
     "Difficulty": "5",
     "Check Value": "3",
+    "Keyword": [
+      "Ally",
+      "EX",
+      "Ranged"
+    ],
     "Set": "Challenger: Cowboy Bebop"
   },
   "CB02-10": {
@@ -283,6 +298,9 @@
     ],
     "Difficulty": "4",
     "Check Value": "3",
+    "Keyword": [
+      "Throw"
+    ],
     "Set": "Challenger: Cowboy Bebop"
   },
   "CB02-11": {
@@ -436,7 +454,7 @@
       "front": {
         "name": "Nothing Like Andy",
         "type": "Foundation",
-        "cost": "1",
+        "cost": 1,
         "image": "https://universus.cards/cards/cb02/017.webp",
         "isHorizontal": false
       }
@@ -547,6 +565,463 @@
     ],
     "Difficulty": "2",
     "Check Value": "5",
+    "Keyword": [
+      "Unique"
+    ],
     "Set": "Challenger: Cowboy Bebop"
+  },
+  "AOT03-1": {
+    "id": "AOT03-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Annie Leonhart, Awakened",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/001.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Female Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/001B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annie Leonhart, Awakened",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Death"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
+  },
+  "AOT03-2": {
+    "id": "AOT03-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armin Arlert, Power of the Collossus",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/002.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Colossus Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/002B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armin Arlert, Power of the Collossus",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Fire",
+      "Order"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Survey Corps"
+    ]
+  },
+  "AOT03-3": {
+    "id": "AOT03-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Connie Springer, Conflicted Heart",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Connie Springer, Conflicted Heart",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Air",
+      "Life"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-4": {
+    "id": "AOT03-4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eren Yeager, Usurper",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/004.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Attack Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/004B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eren Yeager, Usurper",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Fire",
+      "Chaos"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Survey Corps"
+    ]
+  },
+  "AOT03-5": {
+    "id": "AOT03-5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Falco Grice",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/005.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Jaw Titan, Flying Form",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/005B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Falco Grice",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Air",
+      "Chaos"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
+  },
+  "AOT03-6": {
+    "id": "AOT03-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Floch Forster, Yeagerist Leader",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Floch Forster, Yeagerist Leader",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Fire",
+      "Life"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-7": {
+    "id": "AOT03-7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hange Zoe, 14th Commander of the Survey Corps",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hange Zoe, 14th Commander of the Survey Corps",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Order",
+      "Life"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-8": {
+    "id": "AOT03-8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jean Kirstein, Hardened Soldier",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/008.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jean Kirstein, Hardened Soldier",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Order",
+      "Air"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-9": {
+    "id": "AOT03-9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Levi Ackerman, Vengeance-Driven",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/009.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Levi Ackerman, Vengeance-Driven",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Fire",
+      "Air"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-10": {
+    "id": "AOT03-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mikasa Ackerman, Hizuru's Hope",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mikasa Ackerman, Hizuru's Hope",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Air"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Survey Corps"
+    ]
+  },
+  "AOT03-11": {
+    "id": "AOT03-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pieck Finger, Panzer Unit Cartman",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/011.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Cart Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/011B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pieck Finger, Panzer Unit Cartman",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Order"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
+  },
+  "AOT03-12": {
+    "id": "AOT03-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Porco Galliard",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/012.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Jaw Titan, Crushing Biter",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/012B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Porco Galliard",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Fire"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
+  },
+  "AOT03-13": {
+    "id": "AOT03-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reiner Braun, Marley's Shield",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/013.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Armored Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/013B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reiner Braun, Marley's Shield",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Order"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
+  },
+  "AOT03-14": {
+    "id": "AOT03-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "War Hammer Titan",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "War Hammer Titan",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Death",
+      "Life"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan"
+    ]
+  },
+  "AOT03-15": {
+    "id": "AOT03-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeke Yeager, Warchief",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/015.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Beast Titan, Finale",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://universus.cards/cards/aot03/015B.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeke Yeager, Warchief",
+    "type": "Character",
+    "cost": 0,
+    "Symbol": [
+      "Chaos",
+      "Life"
+    ],
+    "Set": "Attack On Titan: Apocalypse",
+    "Difficulty": "",
+    "Check Value": "",
+    "Keyword": [
+      "Titan",
+      "Warrior"
+    ]
   }
 }
