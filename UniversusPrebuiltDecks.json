@@ -1,0 +1,208 @@
+[
+    {
+        "title": "Challenger Deck: Cowboy Bebop - Spike",
+        "id": "Challenger Deck: Cowboy Bebop - Spike",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "CB02-1"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "CB02-5"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-6"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-7"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-8"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-9"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-10"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-11"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "CB02-12"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-13"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-14"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-15"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-16"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-17"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-18"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-19"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-20"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-21"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "CB02-3"
+                }
+            ]
+        }
+    },
+    {
+    "title": "Challenger Deck: Cowboy Bebop - Faye",
+    "id": "Challenger Deck: Cowboy Bebop - Faye",
+    "game": "Universus",
+    "format": "Classic",
+    "cardCount": 61,
+    "createdAt": "2025-12-31T14:00:00.000Z",
+    "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Attack",
+        "Foundation",
+        "Asset",
+        "Backup",
+        "Action"
+      ],
+      "Character": [
+        {
+          "count": 1,
+          "id": "CB02-2"
+        }
+      ],
+      "Attack": [
+        {
+          "count": 4,
+          "id": "CB02-5"
+        },
+        {
+            "count": 2,
+            "id": "CB02-6"
+        },
+        {
+            "count": 3,
+            "id": "CB02-7"
+        },
+        {
+            "count": 3,
+            "id": "CB02-8"
+        },
+        {
+            "count": 3,
+            "id": "CB02-9"
+        },
+        {
+            "count": 4,
+            "id": "CB02-10"
+        },
+        {
+            "count": 2,
+            "id": "CB02-11"
+        }
+      ],
+      "Foundation": [
+        {
+            "count": 2,
+            "id": "CB02-12"
+        },
+        {
+            "count": 3,
+            "id": "CB02-13"
+        },
+        {
+            "count": 4,
+            "id": "CB02-14"
+        },
+        {
+            "count": 4,
+            "id": "CB02-15"
+        },
+        {
+            "count": 4,
+            "id": "CB02-16"
+        },
+        {
+            "count": 4,
+            "id": "CB02-17"
+        },
+        {
+            "count": 4,
+            "id": "CB02-18"
+        },
+        {
+            "count": 4,
+            "id": "CB02-19"
+        },
+        {
+            "count": 4,
+            "id": "CB02-20"
+        },
+        {
+            "count": 2,
+            "id": "CB02-21"
+        }
+      ],
+      "Action": [
+        {
+            "count": 2,
+            "id": "CB02-3"
+        }
+      ]
+    }
+  }
+]
