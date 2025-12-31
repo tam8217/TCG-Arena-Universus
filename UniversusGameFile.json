@@ -140,7 +140,7 @@
                     "Card_Pool": {
                         "title": "Card_Pool",
                         "isHidden": "no",
-                        "height": "SMALL",
+                        "height": "LARGE",
                         "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
@@ -164,7 +164,7 @@
                         "displayedTitle": "Character",
                         "enterTapped": true,
                         "enterSpun": false,
-                        "isGroupForbidden": true,
+                        "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "noQuickActions": false
@@ -180,7 +180,7 @@
                         "displayedTitle": "Momentum",
                         "enterTapped": true,
                         "enterSpun": false,
-                        "isGroupForbidden": true,
+                        "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "noQuickActions": false
@@ -196,7 +196,7 @@
                         "displayedTitle": "Stage",
                         "enterTapped": false,
                         "enterSpun": false,
-                        "isGroupForbidden": true,
+                        "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false,
                         "noQuickActions": false
