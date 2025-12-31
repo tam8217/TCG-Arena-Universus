@@ -13,8 +13,9 @@
     },
     "deckBuilding": {
         "mainFilters": [
+            "type",
+            "Difficulty",
             "Symbol",
-            "Set",
             "Keyword"
         ],
         "formats": [
@@ -140,7 +141,7 @@
                     "Card_Pool": {
                         "title": "Card_Pool",
                         "isHidden": "no",
-                        "height": "BIG",
+                        "height": "MEDIUM",
                         "alignment": "START",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
@@ -188,7 +189,7 @@
                     "Stage": {
                         "title": "Stage",
                         "isHidden": "no",
-                        "height": "SMALL",
+                        "height": "MEDIUM",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": "true",
