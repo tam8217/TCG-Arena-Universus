@@ -8,8 +8,8 @@
   "customHelp": "Universus Help Message",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://www.cardle.wtf/api/sets",
-    "cardBack": ""
+    "dataUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusCardList.json",
+    "cardBack": "https://cf.geekdo-images.com/Ut1fKAXkokVpg0w8NxG52w__imagepage/img/FxZXh1g9ai12tPhPS8XDrP_Q068=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7993223.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
