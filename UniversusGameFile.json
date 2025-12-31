@@ -64,23 +64,24 @@
           "content": [
             {
               "direction": "column",
-              "style": false,
               "content": [
                 {
-                  "section": "Card_Pool",
-                  "style": false
+                  "section": "Card_Pool"  
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "justifyContent": "start"
+                  },
                   "content": [
                     {
                       "section": "Character",
-                      "style": false
+                      "style": {
+                        "width": "2vh"
+                      }
                     },
                     {
-                      "section": "Stage",
-                      "style": false
+                      "section": "Stage"
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -91,7 +92,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Character "
+          "Character"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
