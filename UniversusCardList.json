@@ -1,1027 +1,1536 @@
 {
-  "CB02-1": {
-    "id": "CB02-1",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-1": {
+        "id": "CB02-1",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spike, Bounty Hunter",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/cb02/001.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Spike, Bounty Hunter",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/cb02/001.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Spike, Bounty Hunter",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-1s": {
-    "id": "CB02-1s",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-1s": {
+        "id": "CB02-1s",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Spike, Bounty Hunter",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/csbebop/101.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Spike, Bounty Hunter",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/csbebop/101.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Spike, Bounty Hunter",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-2": {
-    "id": "CB02-2",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-2": {
+        "id": "CB02-2",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Faye, Queen of Hearts",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/cb02/002.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Faye, Queen of Hearts",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/cb02/002.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Chaos",
+            "Life",
+            "Water"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Faye, Queen of Hearts",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Life",
-      "Water"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-2s": {
-    "id": "CB02-2s",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-2s": {
+        "id": "CB02-2s",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Faye, Queen of Hearts",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/csbebop/102.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Faye, Queen of Hearts",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/csbebop/102.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Chaos",
+            "Life",
+            "Water"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Faye, Queen of Hearts",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Life",
-      "Water"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-3": {
-    "id": "CB02-3",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-3": {
+        "id": "CB02-3",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Welcome to Space Land",
+                "type": "Action",
+                "cost": "3",
+                "image": "https://universus.cards/cards/cb02/003.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Welcome to Space Land",
         "type": "Action",
-        "cost": "3",
-        "image": "https://universus.cards/cards/cb02/003.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Fire",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "3",
+        "Check Value": "4",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Welcome to Space Land",
-    "type": "Action",
-    "cost": 0,
-    "Symbol": [
-      "Fire",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "3",
-    "Check Value": "4",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-4": {
-    "id": "CB02-4",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-4": {
+        "id": "CB02-4",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ein",
+                "type": "Asset",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/004.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Ein",
         "type": "Asset",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/004.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Life",
+            "Void",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Keyword": [
+            "Ally",
+            "Unique"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Ein",
-    "type": "Asset",
-    "cost": 0,
-    "Symbol": [
-      "Life",
-      "Void",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Keyword": [
-      "Ally",
-      "Unique"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-5": {
-    "id": "CB02-5",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-5": {
+        "id": "CB02-5",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Questioning Threat",
+                "type": "Attack",
+                "cost": "3",
+                "image": "https://universus.cards/cards/cb02/005.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Questioning Threat",
         "type": "Attack",
-        "cost": "3",
-        "image": "https://universus.cards/cards/cb02/005.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Chaos",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "3",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Questioning Threat",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "3",
-    "Check Value": "3",
-    "Keyword": [
-      "Ranged"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-6": {
-    "id": "CB02-6",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-6": {
+        "id": "CB02-6",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fallen Angel's Revenge",
+                "type": false,
+                "cost": "5",
+                "image": "https://universus.cards/cards/cb02/006.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Fallen Angel's Revenge",
-        "type": false,
-        "cost": "5",
-        "image": "https://universus.cards/cards/cb02/006.webp",
-        "isHorizontal": false
-      }
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "5",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Fallen Anger's Revenge",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "5",
-    "Check Value": "3",
-    "Keyword": [
-      "Ranged"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-7": {
-    "id": "CB02-7",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-7": {
+        "id": "CB02-7",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Falling Heel Strike",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://universus.cards/cards/cb02/007.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Falling Heel Strike",
         "type": "Attack",
-        "cost": "4",
-        "image": "https://universus.cards/cards/cb02/007.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Kick"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Falling Heel Strike",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "4",
-    "Check Value": "3",
-    "Keyword": [
-      "Kick"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-8": {
-    "id": "CB02-8",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-8": {
+        "id": "CB02-8",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "High Roundhouse Kick",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://universus.cards/cards/cb02/008.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "High Roundhouse Kick",
         "type": "Attack",
-        "cost": "4",
-        "image": "https://universus.cards/cards/cb02/008.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Kick"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "High Roundhouse Kick",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "4",
-    "Check Value": "3",
-    "Keyword": [
-      "Kick"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-9": {
-    "id": "CB02-9",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-9": {
+        "id": "CB02-9",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hunter's Pursuit",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://universus.cards/cards/cb02/009.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Hunter's Pursuit",
         "type": "Attack",
-        "cost": "4",
-        "image": "https://universus.cards/cards/cb02/009.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "5",
+        "Check Value": "3",
+        "Keyword": [
+            "Ally",
+            "EX",
+            "Ranged"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Hunter's Pursuit",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "5",
-    "Check Value": "3",
-    "Keyword": [
-      "Ally",
-      "EX",
-      "Ranged"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-10": {
-    "id": "CB02-10",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-10": {
+        "id": "CB02-10",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jaw Jammer",
+                "type": "Attack",
+                "cost": "4",
+                "image": "https://universus.cards/cards/cb02/010.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Jaw Jammer",
         "type": "Attack",
-        "cost": "4",
-        "image": "https://universus.cards/cards/cb02/010.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Throw"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Jaw Jammer",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "4",
-    "Check Value": "3",
-    "Keyword": [
-      "Throw"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-11": {
-    "id": "CB02-11",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Split-Second Standoff",
+    "CB02-11": {
+        "id": "CB02-11",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Split-Second Standoff",
+                "type": "Attack",
+                "cost": "6",
+                "image": "https://universus.cards/cards/cb02/011.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spit-Second Standoff",
         "type": "Attack",
-        "cost": "6",
-        "image": "https://universus.cards/cards/cb02/011.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "6",
+        "Check Value": "3",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Spit-Second Standoff",
-    "type": "Attack",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "6",
-    "Check Value": "3",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-12": {
-    "id": "CB02-12",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-12": {
+        "id": "CB02-12",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Leaving The Bebop",
+                "type": "Foundation",
+                "cost": "3",
+                "image": "https://universus.cards/cards/cb02/012.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Leaving The Bebop",
         "type": "Foundation",
-        "cost": "3",
-        "image": "https://universus.cards/cards/cb02/012.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "3",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Leaving The Bebop",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "All",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "3",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-13": {
-    "id": "CB02-13",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-13": {
+        "id": "CB02-13",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Ending The Dream",
+                "type": "Foundation",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/013.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Ending The Dream",
         "type": "Foundation",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/013.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Ending The Dream",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-14": {
-    "id": "CB02-14",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-14": {
+        "id": "CB02-14",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fast Friendship",
+                "type": "Foundation",
+                "cost": "1",
+                "image": "https://universus.cards/cards/cb02/014.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Fast Friendship",
         "type": "Foundation",
-        "cost": "1",
-        "image": "https://universus.cards/cards/cb02/014.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Chaos",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Fast Friendship",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "1",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-15": {
-    "id": "CB02-15",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-15": {
+        "id": "CB02-15",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Finally Awake",
+                "type": "Foundation",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/015.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Finally Awake",
         "type": "Foundation",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/015.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Finally Awake",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-16": {
-    "id": "CB02-16",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-16": {
+        "id": "CB02-16",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Light It Up",
+                "type": "Foundation",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/016.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Light It Up",
         "type": "Foundation",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/016.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Light It Up",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-17": {
-    "id": "CB02-17",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-17": {
+        "id": "CB02-17",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nothing Like Andy",
+                "type": "Foundation",
+                "cost": 1,
+                "image": "https://universus.cards/cards/cb02/017.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Nothing Like Andy",
         "type": "Foundation",
-        "cost": 1,
-        "image": "https://universus.cards/cards/cb02/017.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Nothing Like Andy",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "1",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-18": {
-    "id": "CB02-18",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-18": {
+        "id": "CB02-18",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Sing For Me",
+                "type": "Foundation",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/018.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Sing For Me",
         "type": "Foundation",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/018.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Sing For Me",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-19": {
-    "id": "CB02-19",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-19": {
+        "id": "CB02-19",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Skeptical",
+                "type": "Foundation",
+                "cost": "1",
+                "image": "https://universus.cards/cards/cb02/019.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Skeptical",
         "type": "Foundation",
-        "cost": "1",
-        "image": "https://universus.cards/cards/cb02/019.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "1",
+        "Check Value": "4",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Skeptical",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "1",
-    "Check Value": "4",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-20": {
-    "id": "CB02-20",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-20": {
+        "id": "CB02-20",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Syndicate Target",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/cb02/020.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Syndicate Target",
         "type": "Foundation",
         "cost": 0,
-        "image": "https://universus.cards/cards/cb02/020.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Death",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": 0,
+        "Check Value": "6",
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Syndicate Target",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": 0,
-    "Check Value": "6",
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "CB02-21": {
-    "id": "CB02-21",
-    "isToken": false,
-    "face": {
-      "front": {
+    "CB02-21": {
+        "id": "CB02-21",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fateful Meeting",
+                "type": "Foundation",
+                "cost": "2",
+                "image": "https://universus.cards/cards/cb02/021.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Fateful Meeting",
         "type": "Foundation",
-        "cost": "2",
-        "image": "https://universus.cards/cards/cb02/021.webp",
-        "isHorizontal": false
-      }
+        "cost": 0,
+        "Symbol": [
+            "Earth",
+            "Life",
+            "Water"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Keyword": [
+            "Unique"
+        ],
+        "Set": "Challenger: Cowboy Bebop"
     },
-    "name": "Fateful Meeting",
-    "type": "Foundation",
-    "cost": 0,
-    "Symbol": [
-      "Earth",
-      "Life",
-      "Water"
-    ],
-    "Difficulty": "2",
-    "Check Value": "5",
-    "Keyword": [
-      "Unique"
-    ],
-    "Set": "Challenger: Cowboy Bebop"
-  },
-  "AOT03-1": {
-    "id": "AOT03-1",
-    "isToken": false,
-    "face": {
-      "front": {
+    "TS01-1": {
+        "id": "TS01-1",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vash the Stampede",
+                "type": "Character",
+                "cost": "0",
+                "image": "https://universus.cards/cards/ts01/001.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vash the Stampede",
+        "type": "Character",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-2": {
+        "id": "TS01-2",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nicholas D. Wolfwood",
+                "type": "Character",
+                "cost": "0",
+                "image": "https://universus.cards/cards/ts01/002.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nicholas D. Wolfwood",
+        "type": "Character",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-3": {
+        "id": "TS01-3",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Avoiding Conflict",
+                "type": "Action",
+                "cost": 1,
+                "image": "https://universus.cards/cards/ts01/003.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Avoiding Conflict",
+        "type": "Action",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-4": {
+        "id": "TS01-4",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Interdimensional Plants",
+                "type": "Asset",
+                "cost": 3,
+                "image": "https://universus.cards/cards/ts01/004.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Interdimensional Plants",
+        "type": "Asset",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "3",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-5": {
+        "id": "TS01-5",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Disabling Shot",
+                "type": "Attack",
+                "cost": 3,
+                "image": "https://universus.cards/cards/ts01/005.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Disabling Shot",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "5",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-6": {
+        "id": "TS01-6",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Fan the Hammer",
+                "type": "Attack",
+                "cost": 4,
+                "image": "https://universus.cards/cards/ts01/006.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fan the Hammer",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-7": {
+        "id": "TS01-7",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Inevitable Clash",
+                "type": "Attack",
+                "cost": 6,
+                "image": "https://universus.cards/cards/ts01/007.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Inevitable Clash",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "6",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon",
+            "Powerful"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-8": {
+        "id": "TS01-8",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Merciful Volley",
+                "type": "Attack",
+                "cost": 4,
+                "image": "https://universus.cards/cards/ts01/008.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Merciful Volley",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon",
+            "Stun"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-9": {
+        "id": "TS01-9",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Nimble Maneuver",
+                "type": "Attack",
+                "cost": 4,
+                "image": "https://universus.cards/cards/ts01/009.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nimble Maneuver",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon",
+            "Powerful"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-10": {
+        "id": "TS01-10",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Punisher's Beam",
+                "type": "Attack",
+                "cost": 5,
+                "image": "https://universus.cards/cards/ts01/010.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Punisher's Beam",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "5",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Tech",
+            "Breaker"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-11": {
+        "id": "TS01-11",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Steady Shot",
+                "type": "Attack",
+                "cost": 4,
+                "image": "https://universus.cards/cards/ts01/011.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Steady Shot",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Ranged",
+            "Weapon"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-12": {
+        "id": "TS01-12",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Counselor of Plants",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/012.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Counselor of Plants",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-13": {
+        "id": "TS01-13",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Decisions, Decisions",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/013.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Decisions, Decisions",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-14": {
+        "id": "TS01-14",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Get the Scoop",
+                "type": "Foundation",
+                "cost": 1,
+                "image": "https://universus.cards/cards/ts01/014.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Get the Scoop",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Chaos",
+            "Death"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-15": {
+        "id": "TS01-15",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Grasping for Answers",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/015.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Grasping for Answers",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-16": {
+        "id": "TS01-16",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Motherly Affection",
+                "type": "Foundation",
+                "cost": 1,
+                "image": "https://universus.cards/cards/ts01/016.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Motherly Affection",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-17": {
+        "id": "TS01-17",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pitching In",
+                "type": "Foundation",
+                "cost": 1,
+                "image": "https://universus.cards/cards/ts01/017.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pitching In",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Chaos"
+        ],
+        "Difficulty": "1",
+        "Check Value": "6",
+        "Keyword": [
+            "Ally",
+            "Ranged"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-18": {
+        "id": "TS01-18",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Prideless Negotiations",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/ts01/018.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Prideless Negotiations",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": 0,
+        "Check Value": 6,
+        "Keyword": [
+            "Breaker"
+        ],
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-19": {
+        "id": "TS01-19",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Seen It All",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/019.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Seen It All",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Fire"
+        ],
+        "Difficulty": "2",
+        "Check Value": "4",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-20": {
+        "id": "TS01-20",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Suspended Bounty",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/020.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Suspended Bounty",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Life"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "TS01-21": {
+        "id": "TS01-21",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "The Big Fall",
+                "type": "Foundation",
+                "cost": 2,
+                "image": "https://universus.cards/cards/ts01/021.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "The Big Fall",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "All",
+            "Death",
+            "Void"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Set": "Challenger: Trigun Stampede"
+    },
+    "AOT03-1": {
+        "id": "AOT03-1",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Annie Leonhart, Awakened",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Female Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/001B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Annie Leonhart, Awakened",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/001.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Female Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/001B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Chaos",
+            "Death"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
     },
-    "name": "Annie Leonhart, Awakened",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Death"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  },
-  "AOT03-2": {
-    "id": "AOT03-2",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-2": {
+        "id": "AOT03-2",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Armin Arlert, Power of the Collossus",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/002.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Colossus Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/002B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Armin Arlert, Power of the Collossus",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/002.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Colossus Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/002B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Fire",
+            "Order"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Survey Corps"
+        ]
     },
-    "name": "Armin Arlert, Power of the Collossus",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Fire",
-      "Order"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Survey Corps"
-    ]
-  },
-  "AOT03-3": {
-    "id": "AOT03-3",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-3": {
+        "id": "AOT03-3",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Connie Springer, Conflicted Heart",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/003.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Connie Springer, Conflicted Heart",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/003.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Air",
+            "Life"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Connie Springer, Conflicted Heart",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Air",
-      "Life"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-4": {
-    "id": "AOT03-4",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-4": {
+        "id": "AOT03-4",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eren Yeager, Usurper",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/004.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Attack Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/004B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Eren Yeager, Usurper",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/004.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Attack Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/004B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Fire",
+            "Chaos"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Survey Corps"
+        ]
     },
-    "name": "Eren Yeager, Usurper",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Fire",
-      "Chaos"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Survey Corps"
-    ]
-  },
-  "AOT03-5": {
-    "id": "AOT03-5",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-5": {
+        "id": "AOT03-5",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Falco Grice",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/005.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Jaw Titan, Flying Form",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/005B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Falco Grice",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/005.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Jaw Titan, Flying Form",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/005B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Air",
+            "Chaos"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
     },
-    "name": "Falco Grice",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Air",
-      "Chaos"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  },
-  "AOT03-6": {
-    "id": "AOT03-6",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-6": {
+        "id": "AOT03-6",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Floch Forster, Yeagerist Leader",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/006.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Floch Forster, Yeagerist Leader",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/006.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Fire",
+            "Life"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Floch Forster, Yeagerist Leader",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Fire",
-      "Life"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-7": {
-    "id": "AOT03-7",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-7": {
+        "id": "AOT03-7",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hange Zoe, 14th Commander of the Survey Corps",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/007.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Hange Zoe, 14th Commander of the Survey Corps",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/007.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Order",
+            "Life"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Hange Zoe, 14th Commander of the Survey Corps",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Order",
-      "Life"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-8": {
-    "id": "AOT03-8",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-8": {
+        "id": "AOT03-8",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Jean Kirstein, Hardened Soldier",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/008.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Jean Kirstein, Hardened Soldier",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/008.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Order",
+            "Air"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Jean Kirstein, Hardened Soldier",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Order",
-      "Air"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-9": {
-    "id": "AOT03-9",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-9": {
+        "id": "AOT03-9",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Levi Ackerman, Vengeance-Driven",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/009.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Levi Ackerman, Vengeance-Driven",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/009.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Fire",
+            "Air"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Levi Ackerman, Vengeance-Driven",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Fire",
-      "Air"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-10": {
-    "id": "AOT03-10",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-10": {
+        "id": "AOT03-10",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Mikasa Ackerman, Hizuru's Hope",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/010.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Mikasa Ackerman, Hizuru's Hope",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/010.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Death",
+            "Air"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Survey Corps"
+        ]
     },
-    "name": "Mikasa Ackerman, Hizuru's Hope",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Air"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Survey Corps"
-    ]
-  },
-  "AOT03-11": {
-    "id": "AOT03-11",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-11": {
+        "id": "AOT03-11",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Pieck Finger, Panzer Unit Cartman",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/011.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Cart Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/011B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Pieck Finger, Panzer Unit Cartman",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/011.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Cart Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/011B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Death",
+            "Order"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
     },
-    "name": "Pieck Finger, Panzer Unit Cartman",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Order"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  },
-  "AOT03-12": {
-    "id": "AOT03-12",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-12": {
+        "id": "AOT03-12",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Porco Galliard",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/012.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Jaw Titan, Crushing Biter",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/012B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Porco Galliard",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/012.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Jaw Titan, Crushing Biter",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/012B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Death",
+            "Fire"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
     },
-    "name": "Porco Galliard",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Fire"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  },
-  "AOT03-13": {
-    "id": "AOT03-13",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-13": {
+        "id": "AOT03-13",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Reiner Braun, Marley's Shield",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/013.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Armored Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/013B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Reiner Braun, Marley's Shield",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/013.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Armored Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/013B.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Chaos",
+            "Order"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
     },
-    "name": "Reiner Braun, Marley's Shield",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Order"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  },
-  "AOT03-14": {
-    "id": "AOT03-14",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-14": {
+        "id": "AOT03-14",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "War Hammer Titan",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/014.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "War Hammer Titan",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/014.webp",
-        "isHorizontal": false
-      }
+        "Symbol": [
+            "Death",
+            "Life"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan"
+        ]
     },
-    "name": "War Hammer Titan",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Death",
-      "Life"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan"
-    ]
-  },
-  "AOT03-15": {
-    "id": "AOT03-15",
-    "isToken": false,
-    "face": {
-      "front": {
+    "AOT03-15": {
+        "id": "AOT03-15",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Zeke Yeager, Warchief",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/015.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Beast Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/015B.webp",
+                "isHorizontal": false
+            }
+        },
         "name": "Zeke Yeager, Warchief",
         "type": "Character",
         "cost": 0,
-        "image": "https://universus.cards/cards/aot03/015.webp",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Beast Titan, Finale",
-        "type": "Character",
-        "cost": 0,
-        "image": "https://universus.cards/cards/aot03/015B.webp",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zeke Yeager, Warchief",
-    "type": "Character",
-    "cost": 0,
-    "Symbol": [
-      "Chaos",
-      "Life"
-    ],
-    "Set": "Attack On Titan: Apocalypse",
-    "Difficulty": "",
-    "Check Value": "",
-    "Keyword": [
-      "Titan",
-      "Warrior"
-    ]
-  }
+        "Symbol": [
+            "Chaos",
+            "Life"
+        ],
+        "Set": "Attack On Titan: Apocalypse",
+        "Keyword": [
+            "Titan",
+            "Warrior"
+        ]
+    }
 }

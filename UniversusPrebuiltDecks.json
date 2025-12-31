@@ -99,110 +99,340 @@
                     "count": 2,
                     "id": "CB02-3"
                 }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "CB02-4"
+                }
             ]
         }
     },
     {
-    "title": "Challenger Deck: Cowboy Bebop - Faye",
-    "id": "Challenger Deck: Cowboy Bebop - Faye",
-    "game": "Universus",
-    "format": "Classic",
-    "cardCount": 61,
-    "createdAt": "2025-12-31T14:00:00.000Z",
-    "lastModifiedAt": "2025-12-31T14:00:00.000Z",
-    "deckList": {
-      "categoriesOrder": [
-        "Character",
-        "Attack",
-        "Foundation",
-        "Asset",
-        "Backup",
-        "Action"
-      ],
-      "Character": [
-        {
-          "count": 1,
-          "id": "CB02-2"
+        "title": "Challenger Deck: Cowboy Bebop - Faye",
+        "id": "Challenger Deck: Cowboy Bebop - Faye",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "CB02-2"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "CB02-5"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-6"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-7"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-8"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-9"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-10"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-11"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "CB02-12"
+                },
+                {
+                    "count": 3,
+                    "id": "CB02-13"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-14"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-15"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-16"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-17"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-18"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-19"
+                },
+                {
+                    "count": 4,
+                    "id": "CB02-20"
+                },
+                {
+                    "count": 2,
+                    "id": "CB02-21"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "CB02-3"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "CB02-4"
+                }
+            ]
         }
-      ],
-      "Attack": [
-        {
-          "count": 4,
-          "id": "CB02-5"
-        },
-        {
-            "count": 2,
-            "id": "CB02-6"
-        },
-        {
-            "count": 3,
-            "id": "CB02-7"
-        },
-        {
-            "count": 3,
-            "id": "CB02-8"
-        },
-        {
-            "count": 3,
-            "id": "CB02-9"
-        },
-        {
-            "count": 4,
-            "id": "CB02-10"
-        },
-        {
-            "count": 2,
-            "id": "CB02-11"
+    },
+    {
+        "title": "Challenger Deck: Trigun Stampede - Vash",
+        "id": "Challenger Deck: Trigun Stampede - Vash",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "TS01-1"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "TS01-5"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-6"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-7"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-8"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-9"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-10"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-11"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "TS01-12"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-13"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-14"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-15"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-16"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-17"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-18"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-19"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-20"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-21"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "TS01-3"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "TS01-4"
+                }
+            ]
         }
-      ],
-      "Foundation": [
-        {
-            "count": 2,
-            "id": "CB02-12"
-        },
-        {
-            "count": 3,
-            "id": "CB02-13"
-        },
-        {
-            "count": 4,
-            "id": "CB02-14"
-        },
-        {
-            "count": 4,
-            "id": "CB02-15"
-        },
-        {
-            "count": 4,
-            "id": "CB02-16"
-        },
-        {
-            "count": 4,
-            "id": "CB02-17"
-        },
-        {
-            "count": 4,
-            "id": "CB02-18"
-        },
-        {
-            "count": 4,
-            "id": "CB02-19"
-        },
-        {
-            "count": 4,
-            "id": "CB02-20"
-        },
-        {
-            "count": 2,
-            "id": "CB02-21"
+    },
+    {
+        "title": "Challenger Deck: Trigun Stampede - Nicholas",
+        "id": "Challenger Deck: Trigun Stampede - Nicholas",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "TS01-2"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "TS01-5"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-6"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-7"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-8"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-9"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-10"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-11"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "TS01-12"
+                },
+                {
+                    "count": 3,
+                    "id": "TS01-13"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-14"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-15"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-16"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-17"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-18"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-19"
+                },
+                {
+                    "count": 4,
+                    "id": "TS01-20"
+                },
+                {
+                    "count": 2,
+                    "id": "TS01-21"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "TS01-3"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "TS01-4"
+                }
+            ]
         }
-      ],
-      "Action": [
-        {
-            "count": 2,
-            "id": "CB02-3"
-        }
-      ]
     }
-  }
 ]
