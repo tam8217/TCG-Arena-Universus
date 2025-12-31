@@ -1,4 +1,18 @@
 {
+    "GGS01-RC": {
+        "id": "GGS01-RC",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Roman Cancel",
+                "cost": 0,
+                "image": "https://universus.cards/cards/ggs01/000.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Roman Cancel",
+        "Set": "Guilty Gear -Strive-"
+    },
     "CB02-1": {
         "id": "CB02-1",
         "isToken": false,
