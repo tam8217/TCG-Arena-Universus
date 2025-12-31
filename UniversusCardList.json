@@ -1135,11 +1135,11 @@
             "Chaos",
             "Death"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-2": {
         "id": "AOT03-2",
@@ -1167,11 +1167,11 @@
             "Fire",
             "Order"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-3": {
         "id": "AOT03-3",
@@ -1192,10 +1192,10 @@
             "Air",
             "Life"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-4": {
         "id": "AOT03-4",
@@ -1223,11 +1223,11 @@
             "Fire",
             "Chaos"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-5": {
         "id": "AOT03-5",
@@ -1255,11 +1255,11 @@
             "Air",
             "Chaos"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-6": {
         "id": "AOT03-6",
@@ -1280,10 +1280,10 @@
             "Fire",
             "Life"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-7": {
         "id": "AOT03-7",
@@ -1304,10 +1304,10 @@
             "Order",
             "Life"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-8": {
         "id": "AOT03-8",
@@ -1328,10 +1328,10 @@
             "Order",
             "Air"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-9": {
         "id": "AOT03-9",
@@ -1352,10 +1352,10 @@
             "Fire",
             "Air"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-10": {
         "id": "AOT03-10",
@@ -1376,10 +1376,10 @@
             "Death",
             "Air"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Survey Corps"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-11": {
         "id": "AOT03-11",
@@ -1407,11 +1407,11 @@
             "Death",
             "Order"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-12": {
         "id": "AOT03-12",
@@ -1439,11 +1439,11 @@
             "Death",
             "Fire"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-13": {
         "id": "AOT03-13",
@@ -1471,11 +1471,11 @@
             "Chaos",
             "Order"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-14": {
         "id": "AOT03-14",
@@ -1496,10 +1496,10 @@
             "Death",
             "Life"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-15": {
         "id": "AOT03-15",
@@ -1527,10 +1527,10 @@
             "Chaos",
             "Life"
         ],
-        "Set": "Attack On Titan: Apocalypse",
         "Keyword": [
             "Titan",
             "Warrior"
-        ]
+        ],
+        "Set": "Attack On Titan: Apocalypse"
     }
 }
