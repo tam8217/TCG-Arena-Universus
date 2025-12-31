@@ -61,12 +61,12 @@
                 {
                     "id": "midToken",
                     "name": "Mid",
-                    "image": "https://tam8217.github.io/TCG-Arena-Universus/Images/HighToken.png"
+                    "image": "https://tam8217.github.io/TCG-Arena-Universus/Images/MidToken.png"
                 },
                 {
                     "id": "lowToken",
                     "name": "Low",
-                    "image": "https://tam8217.github.io/TCG-Arena-Universus/Images/HighToken.png"
+                    "image": "https://tam8217.github.io/TCG-Arena-Universus/Images/LowToken.png"
                 },
                 {
                     "id": "freezeToken",
