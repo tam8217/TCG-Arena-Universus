@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://imgs.search.brave.com/z0-m7vqyCUI_WoR7FsWda-1HiXGmyGqvxUdFR_8Ozgg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91dnNn/YW1lcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/SGVyby1TaG9ydC1E/ZXNrdG9wXzJ4X0Nh/cmRDb2xsYWdlLXNj/YWxlZC5qcGc",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://raw.githubusercontent.com/tam8217/TCG-Arena-Universus/refs/heads/main/UniversusPrebuiltDecks.json"
   },
   "customHelp": "Universus Help Message",
   "cardRotation": "90",
@@ -18,7 +18,10 @@
       "Keyword"
     ],
     "formats": [
-      "Classic"
+      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      }
     ]
   },
   "gameplay": {
