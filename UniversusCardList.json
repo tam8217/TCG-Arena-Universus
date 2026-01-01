@@ -2150,5 +2150,28 @@
         "Difficulty": "1",
         "Check Value": "5",
         "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-42": {
+        "id": "AOT03-42",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "In the Lead",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/042.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "In the Lead",
+        "type": "Action",
+        "cost": 0,
+        "Symbol": [
+            "Chaos",
+            "Attuned"
+        ],
+        "Difficulty": "1",
+        "Check Value": "6",
+        "Set": "Attack On Titan: Apocalypse"
     }
 }
