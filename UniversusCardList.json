@@ -1569,7 +1569,7 @@
         "Difficulty": "3",
         "Check Value": "5",
         "Keyword": [
-            "Ally",
+            "Ally"
         ],
         "Set": "Attack On Titan: Apocalypse"
     },
@@ -1585,58 +1585,8 @@
                 "isHorizontal": false
             }
         },
-        "name": "Alliance with Hizuru",
-        "type": "Action",
-        "cost": 0,
-        "Symbol": [
-            "Air",
-            "Attuned"
-        ],
-        "Difficulty": "5",
-        "Check Value": "3",
-        "Set": "Attack On Titan: Apocalypse"
-    },
-    "AOT03-17": {
-        "id": "AOT03-17",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Aerial Reinforcement",
-                "type": "Attack",
-                "cost": 5,
-                "image": "https://universus.cards/cards/aot03/017.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "Alliance with Hizuru",
-        "type": "Action",
-        "cost": 0,
-        "Symbol": [
-            "Air",
-            "Attuned"
-        ],
-        "Difficulty": "5",
-        "Check Value": "3",
-        "Keyword": [
-            "Breaker",
-            "Titan"
-        ],
-        "Set": "Attack On Titan: Apocalypse"
-    },
-    "AOT03-17": {
-        "id": "AOT03-17",
-        "isToken": false,
-        "face": {
-            "front": {
-                "name": "Aerial Reinforcement",
-                "type": "Attack",
-                "cost": 5,
-                "image": "https://universus.cards/cards/aot03/017.webp",
-                "isHorizontal": false
-            }
-        },
         "name": "Aerial Reinforcement",
-        "type": "Attack",
+        "type": "Action",
         "cost": 0,
         "Symbol": [
             "Air",
@@ -1644,10 +1594,6 @@
         ],
         "Difficulty": "5",
         "Check Value": "3",
-        "Keyword": [
-            "Breaker",
-            "Titan"
-        ],
         "Set": "Attack On Titan: Apocalypse"
     },
     "AOT03-18": {
@@ -1994,7 +1940,7 @@
         "Difficulty": "2",
         "Check Value": "4",
         "Keyword": [
-            "Weapon",
+            "Weapon"
         ],
         "Set": "Attack On Titan: Apocalypse"
     },
@@ -2204,5 +2150,5 @@
         "Difficulty": "1",
         "Check Value": "5",
         "Set": "Attack On Titan: Apocalypse"
-    },
+    }
 }
