@@ -1810,5 +1810,230 @@
             "Weapon"
         ],
         "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-27": {
+        "id": "AOT03-27",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Timely Counterattack",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/027.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Timely Counterattack",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "3",
+        "Check Value": "3",
+        "Keyword": [
+            "Breaker",
+            "Weapon"
+        ],
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-28": {
+        "id": "AOT03-28",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Twirling Onslaught",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/028.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Twirling Onslaught",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "4",
+        "Check Value": "3",
+        "Keyword": [
+            "Weapon"
+        ],
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-29": {
+        "id": "AOT03-29",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Veteran's Precision",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/029.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Veteran's Precision",
+        "type": "Attack",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "5",
+        "Check Value": "3",
+        "Keyword": [
+            "Powerful",
+            "Weapon"
+        ],
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-30": {
+        "id": "AOT03-30",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kiyomi Azumabito",
+                "type": "Backup",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/030.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kiyomi Azumabito",
+        "type": "Backup",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "2",
+        "Check Value": "5",
+        "Keyword": [
+            "Unique",
+            "Ally"
+        ],
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-32": {
+        "id": "AOT03-32",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Battle Preparations",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/032.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Battle Preparations",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "2",
+        "Check Value": "4",
+        "Keyword": [
+            "Weapon"
+        ],
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-33": {
+        "id": "AOT03-33",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Dedicate Your Heart",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/033.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Dedicate Your Heart",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "3",
+        "Check Value": "4",
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-34": {
+        "id": "AOT03-34",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Descendant of Hizuru",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/034.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Descendant of Hizuru",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-35": {
+        "id": "AOT03-35",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Eluding Fire",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/035.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Eluding Fire",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Attack On Titan: Apocalypse"
+    },
+    "AOT03-36": {
+        "id": "AOT03-36",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Hasty Retreat",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/036.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hasty Retreat",
+        "type": "Foundation",
+        "cost": 0,
+        "Symbol": [
+            "Air",
+            "Attuned"
+        ],
+        "Difficulty": "1",
+        "Check Value": "5",
+        "Set": "Attack On Titan: Apocalypse"
     }
 }
