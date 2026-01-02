@@ -2173,5 +2173,53 @@
         "Difficulty": "1",
         "Check Value": "6",
         "Set": "Attack On Titan: Apocalypse"
+    },
+    "kf01-001": {
+        "id": "kf01-001",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shun'ei, Amped-Up Illusionist",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/kf01/001.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shun'ei, Amped-Up Illusionist",
+        "type": "Character",
+        "cost": 0,
+        "Symbol": [
+            "air",
+            "fire",
+            "good"
+        ],
+        "Difficulty": -1,
+        "Check Value": -1,
+        "Set": "Challenger: King of Fighters XV - Team Hero"
+    },
+    "kf01-002": {
+        "id": "kf01-002",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Meitenkun, Sleeping Prodigy",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/kf01/002.jpg",
+                "isHorizontal": false
+            }
+        },
+        "name": "Meitenkun, Sleeping Prodigy",
+        "type": "Character",
+        "cost": 0,
+        "Symbol": [
+            "air",
+            "earth",
+            "good"
+        ],
+        "Difficulty": -1,
+        "Check Value": -1,
+        "Set": "Challenger: King of Fighters XV - Team Hero"
     }
 }
