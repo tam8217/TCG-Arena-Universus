@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <h3>Test</h3>
+    <textarea id="siteInput"></textarea>
+    <button id="parseButton">Click to Parse!</button>
+    <br />
+    <textarea id="outputText"></textarea>
+</body>
+<script>
+    document.getElementById('parseButton').addEventListener('click', e => {
+        const siteText = document.getElementById('siteInput').value
+        console.log(`Site Text: ${siteText}`)
+        console.log(`Index Checklist ${siteText.substring(siteText.indexOf('Display As ImagesTextFullChecklist'))}`)
+        // Removing part before cards
+        let parsedSiteText = siteText.substring(siteText.indexOf('Display As ImagesTextFullChecklist') + 37)
+        if (parsedSiteText.includes('< 1')) {
+            parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('< 1'))
+        } else if (parsedSiteText.includes('< [?')) {
+            parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('< [?'))
+        }
+        console.log(`Parsed Text ${parsedSiteText}`)
+        const cardArr = parsedSiteText.split('*')
+        console.log('Card Arr:')
+        console.log(cardArr)
+        const cardObj = {}
+        const URL_PREFIX = 'https://universus.cards'
+        for (let i = 0; i < 5; i++) {
+            let element = cardArr[i];
+            element = element.trim()
+            console.log(element)
+
+            let splitElement = element.split('\n')
+            console.log(splitElement)
+            let cardId = ''
+            let cardName = ''
+            let cardType = ''
+            let cardUrl = ''
+            let cardSymbols = []
+            let cardDifficulty = -1
+            let cardCheck = -1
+            let cardSet = ''
+            let cardKeywords = []
+
+            cardName = splitElement[0].substring(0, splitElement[0].indexOf('[')).trim()
+            console.log(`Card Name: ${cardName}`)
+            let isDualFaced = splitElement[0].includes('< / >')
+
+            cardUrl = splitElement[0].substring(splitElement[0].indexOf('[') + 1, splitElement[0].indexOf(']'))
+            console.log(`Card URL: ${cardUrl}`)
+            const splitUrl = cardUrl.split('/')
+            cardId = `${splitUrl[2]}-${splitUrl[3]}`
+            cardId = cardId.substring(0, cardId.indexOf('.'))
+            console.log(`Card ID: ${cardId}`)
+
+
+            cardType = splitElement[3].trim()
+            console.log(`Card Type: ${cardType}`)
+
+            const splitKeywords = splitElement[4].trim().split('-')
+            console.log(splitKeywords)
+            splitKeywords.forEach(line => {
+                if (line.includes(':')) {
+                    line = line.substring(0, line.indexOf(':'))
+                }
+                cardKeywords.push(line.trim())
+            })
+
+            let splitSymbols = splitElement[2].trim().split(' ')
+            for (let j = 0; j < splitSymbols.length; j++) {
+                const symbolLine = splitSymbols[j];
+
+                if (j == 0 && !isNaN(symbolLine)) {
+                    cardDifficulty = Number(symbolLine)
+                } else if (j == 2 && cardDifficulty != -1) {
+                    cardCheck = Number(symbolLine)
+                } else if (!symbolLine.includes('[') && symbolLine != '/') {
+                    cardSymbols.push(symbolLine)
+
+                }
+            }
+            console.log('Symbols')
+            console.log(cardSymbols)
+            // Finding Set Line
+            splitElement.forEach(line => {
+                if (line.includes('?set')) {
+                    cardSet = line.substring(0, line.indexOf('[')).trim()
+                }
+            })
+            console.log(`Set: ${cardSet}`)
+            cardObj[`${cardId}`] = {
+                "id": cardId,
+                "isToken": false,
+                "name": cardName,
+                "type": cardType,
+                "Set": cardSet,
+                "Symbol": cardSymbols,
+            }
+            if (cardDifficulty == -1) {
+                cardObj[`${cardId}`].cost = 0
+            } else {
+                cardObj[`${cardId}`].cost = cardDifficulty
+                cardObj[`${cardId}`].Difficulty = cardDifficulty
+                cardObj[`${cardId}`]['Check Value'] = cardCheck
+            }
+
+            if (cardKeywords.length != 0) {
+                cardObj[`${cardId}`].Keyword = cardKeywords
+            }
+
+            cardObj[`${cardId}`].face = {
+                front: {
+                "name": cardName,
+                "type": cardType,
+                "cost": 0,
+                "image": `${URL_PREFIX}${cardUrl}`,
+                "isHorizontal": false
+                }
+            }
+
+            if (isDualFaced) {
+                // Iterating backwards through the elements to find the last instance of the '[/card/' string
+                for (let j = splitElement.length-1 ; j >= 0; j--) {
+                    const checkLine = splitElement[j];
+                    if (checkLine.includes('[/card/')) {
+                        cardName = checkLine.substring(0, checkLine.indexOf('[')).trim()
+                        cardType = splitElement[j+1].trim()
+                        break
+                    }
+                }
+
+                cardUrl = cardUrl.replace('.jpg', 'B.jpg')
+                cardObj[`${cardId}`].face.back = {
+                "name": cardName,
+                "type": cardType,
+                "cost": 0,
+                "image": `${URL_PREFIX}${cardUrl}`,
+                "isHorizontal": false
+            }
+            }
+
+            // cardObj[`${cardId}`] = {
+            //         "id": cardId,
+            //         "isToken": false,
+            //         "face": {
+            //             "front": {
+            //                 "name": cardName,
+            //                 "type": cardType,
+            //                 "cost": 0,
+            //                 "image": `${URL_PREFIX}${cardUrl}`,
+            //                 "isHorizontal": false
+            //             }
+            //         },
+            //         "name": cardName,
+            //         "type": cardType,
+            //         "cost": 0,
+            //         "Symbol": cardSymbols,
+            //         "Difficulty": cardDifficulty,
+            //         "Check Value": cardCheck,
+            //         "Set": cardSet
+
+            // }
+            // cardObjArr.push(curCardObj)
+        }
+
+        document.getElementById('outputText').value = JSON.stringify(cardObj)
+    })
+</script>
+
+</html>

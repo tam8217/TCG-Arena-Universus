@@ -2221,5 +2221,294 @@
         "Difficulty": -1,
         "Check Value": -1,
         "Set": "Challenger: King of Fighters XV - Team Hero"
+    },
+    "aot03-079": {
+        "id": "aot03-079",
+        "isToken": false,
+        "name": "The Jaw Titan's Bite",
+        "type": "Attack",
+        "Set": "Attack on Titan: Apocalypse",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Stun",
+            "Fury",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "The Jaw Titan's Bite",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/079.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-080": {
+        "id": "aot03-080",
+        "isToken": false,
+        "name": "The Rumbling",
+        "type": "Attack",
+        "Set": "Attack on Titan: Apocalypse",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 11,
+        "Difficulty": 11,
+        "Check Value": 3,
+        "Keyword": [
+            "Stun",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "The Rumbling",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/080.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-081": {
+        "id": "aot03-081",
+        "isToken": false,
+        "name": "War Hammer Titan Attacks!",
+        "type": "Attack",
+        "Set": "Attack on Titan: Apocalypse",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 7,
+        "Difficulty": 7,
+        "Check Value": 4,
+        "Keyword": [
+            "Shift",
+            "Stun",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "War Hammer Titan Attacks!",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/081.jpg",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "The War Hammer Titan",
+                "type": "Backup",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/081B.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-096": {
+        "id": "aot03-096",
+        "isToken": false,
+        "name": "Countering Toss",
+        "type": "Attack",
+        "Set": "Attack on Titan: Apocalypse",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Throw"
+        ],
+        "face": {
+            "front": {
+                "name": "Countering Toss",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/096.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-097": {
+        "id": "aot03-097",
+        "isToken": false,
+        "name": "Desperate Sabotage",
+        "type": "Attack",
+        "Set": "Attack on Titan: Apocalypse",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 2,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Desperate Sabotage",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/097.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-191": {
+        "id": "aot03-191",
+        "isToken": false,
+        "name": "Annie Leonhart, Awakened",
+        "type": "Character",
+        "Set": "Attack on Titan: Apocalypse Alts",
+        "Symbol": [
+            "chaos",
+            "death"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Warrior",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "Annie Leonhart, Awakened",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/191.jpg",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Female Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/191B.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-192": {
+        "id": "aot03-192",
+        "isToken": false,
+        "name": "Armin Arlert, Power of the Colossus",
+        "type": "Character",
+        "Set": "Attack on Titan: Apocalypse Alts",
+        "Symbol": [
+            "fire",
+            "order"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Survey Corps",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "Armin Arlert, Power of the Colossus",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/192.jpg",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Colossus Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/192B.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-193": {
+        "id": "aot03-193",
+        "isToken": false,
+        "name": "Connie Springer, Conflicted Heart",
+        "type": "Character",
+        "Set": "Attack on Titan: Apocalypse Alts",
+        "Symbol": [
+            "air",
+            "life"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Survey Corps"
+        ],
+        "face": {
+            "front": {
+                "name": "Connie Springer, Conflicted Heart",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/193.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-194": {
+        "id": "aot03-194",
+        "isToken": false,
+        "name": "Eren Yeager, Usurper",
+        "type": "Character",
+        "Set": "Attack on Titan: Apocalypse Alts",
+        "Symbol": [
+            "chaos",
+            "fire"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Survey Corps",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "Eren Yeager, Usurper",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/194.jpg",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Attack Titan, Finale",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/194B.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "aot03-195": {
+        "id": "aot03-195",
+        "isToken": false,
+        "name": "Falco Grice",
+        "type": "Character",
+        "Set": "Attack on Titan: Apocalypse Alts",
+        "Symbol": [
+            "air",
+            "chaos"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Warrior",
+            "Titan"
+        ],
+        "face": {
+            "front": {
+                "name": "Falco Grice",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/195.jpg",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Jaw Titan, Flying Form",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/aot03/195B.jpg",
+                "isHorizontal": false
+            }
+        }
     }
 }
