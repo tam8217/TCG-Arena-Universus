@@ -16,6 +16,8 @@
     <textarea id="outputText"></textarea>
 </body>
 <script>
+    // This script is intended to work with a parsed webpage from universus.cards
+    // An example scraper can can be found here https://ultimatewebscraper.com/tools/website-to-text
     document.getElementById('parseButton').addEventListener('click', e => {
         const siteText = document.getElementById('siteInput').value
         console.log(`Site Text: ${siteText}`)
@@ -33,7 +35,7 @@
         console.log(cardArr)
         const cardObj = {}
         const URL_PREFIX = 'https://universus.cards'
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < cardArr.length; i++) {
             let element = cardArr[i];
             element = element.trim()
             console.log(element)
@@ -170,8 +172,10 @@
             // }
             // cardObjArr.push(curCardObj)
         }
-
-        document.getElementById('outputText').value = JSON.stringify(cardObj)
+        let objString = JSON.stringify(cardObj)
+        objString = objString.substring(1, objString.length -1)
+        objString += ','
+        document.getElementById('outputText').value = objString
     })
 </script>
 
