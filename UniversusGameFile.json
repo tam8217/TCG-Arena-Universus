@@ -42,7 +42,7 @@
             },
             "defaultNotes": "",
             "countersStartingValues": [
-                "38" 
+                "38"
             ],
             "hideFacedDownCards": false,
             "draggableTokens": [
@@ -92,8 +92,7 @@
                                 {
                                     "direction": "row",
                                     "style": {
-                                        "justifyContent": "start",
-                                        "height": "50%"
+                                        "justifyContent": "start"
                                     },
                                     "content": [
                                         {
@@ -148,8 +147,7 @@
                         "noQuickActions": false,
                         "cardActionShortcut": {
                             "action": "MOVE",
-                            "actionData":
-                            {
+                            "actionData": {
                                 "destination": "Momentum",
                                 "position": "BOTTOM"
                             }
