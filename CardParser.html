@@ -26,8 +26,8 @@
         let parsedSiteText = siteText.substring(siteText.indexOf('Display As ImagesTextFullChecklist') + 37)
         if (parsedSiteText.includes('< 1')) {
             parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('< 1'))
-        } else if (parsedSiteText.includes('< [?')) {
-            parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('< [?'))
+        } else if (parsedSiteText.includes('<\n[')) {
+            parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('<\n['))
         }
         console.log(`Parsed Text ${parsedSiteText}`)
         const cardArr = parsedSiteText.split('*')
