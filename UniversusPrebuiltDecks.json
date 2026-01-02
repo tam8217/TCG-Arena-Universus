@@ -19,91 +19,91 @@
             "Character": [
                 {
                     "count": 1,
-                    "id": "CB02-1"
+                    "id": "cb02-001"
                 }
             ],
             "Attack": [
                 {
                     "count": 4,
-                    "id": "CB02-5"
+                    "id": "cb02-005"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-6"
+                    "id": "cb02-006"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-7"
+                    "id": "cb02-007"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-8"
+                    "id": "cb02-008"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-9"
+                    "id": "cb02-009"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-10"
+                    "id": "cb02-010"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-11"
+                    "id": "cb02-011"
                 }
             ],
             "Foundation": [
                 {
                     "count": 2,
-                    "id": "CB02-12"
+                    "id": "cb02-012"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-13"
+                    "id": "cb02-013"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-14"
+                    "id": "cb02-014"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-15"
+                    "id": "cb02-015"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-16"
+                    "id": "cb02-016"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-17"
+                    "id": "cb02-017"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-18"
+                    "id": "cb02-018"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-19"
+                    "id": "cb02-019"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-20"
+                    "id": "cb02-020"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-21"
+                    "id": "cb02-021"
                 }
             ],
             "Action": [
                 {
                     "count": 2,
-                    "id": "CB02-3"
+                    "id": "cb02-003"
                 }
             ],
             "Asset": [
                 {
                     "count": 2,
-                    "id": "CB02-4"
+                    "id": "cb02-004"
                 }
             ]
         }
@@ -128,91 +128,91 @@
             "Character": [
                 {
                     "count": 1,
-                    "id": "CB02-2"
+                    "id": "cb02-2"
                 }
             ],
             "Attack": [
                 {
                     "count": 4,
-                    "id": "CB02-5"
+                    "id": "cb02-5"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-6"
+                    "id": "cb02-6"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-7"
+                    "id": "cb02-7"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-8"
+                    "id": "cb02-8"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-9"
+                    "id": "cb02-9"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-10"
+                    "id": "cb02-10"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-11"
+                    "id": "cb02-11"
                 }
             ],
             "Foundation": [
                 {
                     "count": 2,
-                    "id": "CB02-12"
+                    "id": "cb02-12"
                 },
                 {
                     "count": 3,
-                    "id": "CB02-13"
+                    "id": "cb02-13"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-14"
+                    "id": "cb02-14"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-15"
+                    "id": "cb02-15"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-16"
+                    "id": "cb02-16"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-17"
+                    "id": "cb02-17"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-18"
+                    "id": "cb02-18"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-19"
+                    "id": "cb02-19"
                 },
                 {
                     "count": 4,
-                    "id": "CB02-20"
+                    "id": "cb02-20"
                 },
                 {
                     "count": 2,
-                    "id": "CB02-21"
+                    "id": "cb02-21"
                 }
             ],
             "Action": [
                 {
                     "count": 2,
-                    "id": "CB02-3"
+                    "id": "cb02-3"
                 }
             ],
             "Asset": [
                 {
                     "count": 2,
-                    "id": "CB02-4"
+                    "id": "cb02-4"
                 }
             ]
         }
@@ -237,91 +237,91 @@
             "Character": [
                 {
                     "count": 1,
-                    "id": "TS01-1"
+                    "id": "ts01-001"
                 }
             ],
             "Attack": [
                 {
                     "count": 4,
-                    "id": "TS01-5"
+                    "id": "ts01-005"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-6"
+                    "id": "ts01-006"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-7"
+                    "id": "ts01-007"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-8"
+                    "id": "ts01-008"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-9"
+                    "id": "ts01-009"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-10"
+                    "id": "ts01-010"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-11"
+                    "id": "ts01-011"
                 }
             ],
             "Foundation": [
                 {
                     "count": 2,
-                    "id": "TS01-12"
+                    "id": "ts01-012"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-13"
+                    "id": "ts01-013"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-14"
+                    "id": "ts01-014"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-15"
+                    "id": "ts01-015"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-16"
+                    "id": "ts01-016"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-17"
+                    "id": "ts01-017"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-18"
+                    "id": "ts01-018"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-19"
+                    "id": "ts01-019"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-20"
+                    "id": "ts01-020"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-21"
+                    "id": "ts01-021"
                 }
             ],
             "Action": [
                 {
                     "count": 2,
-                    "id": "TS01-3"
+                    "id": "ts01-003"
                 }
             ],
             "Asset": [
                 {
                     "count": 2,
-                    "id": "TS01-4"
+                    "id": "ts01-004"
                 }
             ]
         }
@@ -346,91 +346,91 @@
             "Character": [
                 {
                     "count": 1,
-                    "id": "TS01-2"
+                    "id": "ts01-002"
                 }
             ],
             "Attack": [
                 {
                     "count": 4,
-                    "id": "TS01-5"
+                    "id": "ts01-005"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-6"
+                    "id": "ts01-006"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-7"
+                    "id": "ts01-007"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-8"
+                    "id": "ts01-008"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-9"
+                    "id": "ts01-009"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-10"
+                    "id": "ts01-010"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-11"
+                    "id": "ts01-011"
                 }
             ],
             "Foundation": [
                 {
                     "count": 2,
-                    "id": "TS01-12"
+                    "id": "ts01-012"
                 },
                 {
                     "count": 3,
-                    "id": "TS01-13"
+                    "id": "ts01-013"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-14"
+                    "id": "ts01-014"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-15"
+                    "id": "ts01-015"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-16"
+                    "id": "ts01-016"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-17"
+                    "id": "ts01-017"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-18"
+                    "id": "ts01-018"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-19"
+                    "id": "ts01-019"
                 },
                 {
                     "count": 4,
-                    "id": "TS01-20"
+                    "id": "ts01-020"
                 },
                 {
                     "count": 2,
-                    "id": "TS01-21"
+                    "id": "ts01-021"
                 }
             ],
             "Action": [
                 {
                     "count": 2,
-                    "id": "TS01-3"
+                    "id": "ts01-003"
                 }
             ],
             "Asset": [
                 {
                     "count": 2,
-                    "id": "TS01-4"
+                    "id": "ts01-004"
                 }
             ]
         }
