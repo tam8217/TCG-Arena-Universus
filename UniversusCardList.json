@@ -3538,7 +3538,11 @@
                 "image": "https://universus.cards/cards/sleb/004B.jpg",
                 "isHorizontal": false
             }
-        }
+        },
+        "tokens": [
+            "sl01-skillToken",
+            "sleb-skillToken"
+        ]
     },
     "sleb-skilloken": {
         "id": "sleb-skillToken",
@@ -23227,7 +23231,11 @@
                 "image": "https://universus.cards/cards/sl01/001B.jpg",
                 "isHorizontal": false
             }
-        }
+        },
+        "tokens": [
+            "sl01-skillToken",
+            "sleb-skillToken"
+        ]
     },
     "sl01-002": {
         "id": "sl01-002",
@@ -23746,7 +23754,25 @@
                 "name": "Assassin Skill Tree",
                 "type": "Special",
                 "cost": 0,
-                "image": "https://universus.cards/cards/sl01/101B.jpg",
+                "image": "https://universus.cards/cards/sl01/001B.jpg",
+                "isHorizontal": false
+            }
+        },
+        "tokens": [
+            "sl01-skillToken",
+            "sleb-skillToken"
+        ]
+    },
+    "sl01-skillToken": {
+        "id": "sl01-skillToken",
+        "isToken": true,
+        "name": "Assassin Skill Tree",
+        "Set": "Challenger: Solo Leveling",
+        "face": {
+            "front": {
+                "name": "Assassin Skill Tree",
+                "cost": 0,
+                "image": "https://universus.cards/cards/sl01/001B.jpg",
                 "isHorizontal": false
             }
         }
