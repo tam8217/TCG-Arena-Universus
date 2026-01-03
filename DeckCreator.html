@@ -29,7 +29,7 @@
         splitText.forEach(line => {
             line = line.trim()
             if (line.includes('Sideboard') || line.includes('[b]Side[/b]')) {
-                deckString += 'Sideboard:'
+                deckString += 'Sideboard:\n'
             }
             if (!isNaN(line.charAt(0)) && line != '') {
                 if (line.includes('|')) {
