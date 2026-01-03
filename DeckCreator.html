@@ -27,6 +27,7 @@
         console.log(splitText)
 
         splitText.forEach(line => {
+            line = line.trim()
             if (!isNaN(line.charAt(0)) && line != '') {
                 if (line.iincludes('|') {
                     deckString += `${line.substring(0, line.indexOf('|')).trim()}\n`
