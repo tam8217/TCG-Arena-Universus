@@ -28,7 +28,11 @@
 
         splitText.forEach(line => {
             if (!isNaN(line.charAt(0)) && line != '') {
-                deckString += `${line.substring(0, line.indexOf('|')).trim()}\n`
+                if (line.iincludes('|') {
+                    deckString += `${line.substring(0, line.indexOf('|')).trim()}\n`
+                } else {
+                    deckString += `${line.trim()}\n`
+                }
             }            
         });
         document.getElementById('outputText').value = deckString
