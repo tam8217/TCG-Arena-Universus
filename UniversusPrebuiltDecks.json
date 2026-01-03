@@ -434,5 +434,112 @@
                 }
             ]
         }
+    },
+    {
+        "title": "Challenger Deck: Solo Levelling - Sung Jinwoo",
+        "id": "Challenger Deck: Solo Levelling - Sung Jinwoo",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "sl01-001"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "sl01-005"
+                },
+                {
+                    "count": 2,
+                    "id": "sl01-006"
+                },
+                {
+                    "count": 3,
+                    "id": "sl01-007"
+                },
+                {
+                    "count": 3,
+                    "id": "sl01-008"
+                },
+                {
+                    "count": 3,
+                    "id": "sl01-009"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-010"
+                },
+                {
+                    "count": 2,
+                    "id": "sl01-011"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "sl01-012"
+                },
+                {
+                    "count": 3,
+                    "id": "sl01-013"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-014"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-015"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-016"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-017"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-018"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-019"
+                },
+                {
+                    "count": 4,
+                    "id": "sl01-020"
+                },
+                {
+                    "count": 2,
+                    "id": "sl01-021"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "sl01-004"
+                },
+                {
+                    "count": 2,
+                    "id": "cb02-003"
+                }
+            ]
+        }
     }
 ]
