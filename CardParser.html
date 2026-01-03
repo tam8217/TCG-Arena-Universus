@@ -28,6 +28,8 @@
             parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('< 1'))
         } else if (parsedSiteText.includes('<\n[')) {
             parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('<\n['))
+        } else if (parsedSiteText.includes('Links\n')) {
+            parsedSiteText = parsedSiteText.substring(0, parsedSiteText.indexOf('Links\n'))
         }
         console.log(`Parsed Text ${parsedSiteText}`)
         const cardArr = parsedSiteText.split('*')
