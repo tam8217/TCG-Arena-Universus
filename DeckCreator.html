@@ -29,7 +29,7 @@
         splitText.forEach(line => {
             line = line.trim()
             if (!isNaN(line.charAt(0)) && line != '') {
-                if (line.iincludes('|') {
+                if (line.includes('|')) {
                     deckString += `${line.substring(0, line.indexOf('|')).trim()}\n`
                 } else {
                     deckString += `${line.trim()}\n`
