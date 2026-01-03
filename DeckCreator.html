@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <h3>Deck Code Generator</h3>
+    <textarea id="siteInput"></textarea>
+    <button id="parseButton">Click to Creat Deck!</button>
+    <br />
+    <textarea id="outputText"></textarea>
+</body>
+<script>
+    // This script is intended to work with a parsed webpage from universus.cards
+    // An example scraper can can be found here https://ultimatewebscraper.com/tools/website-to-text
+    document.getElementById('parseButton').addEventListener('click', e => {
+        const siteText = document.getElementById('siteInput').value
+        console.log(`Site Text: ${siteText}`)
+        let deckString = ''
+
+        const splitText = siteText.split('\n')
+        console.log(splitText)
+
+        splitText.forEach(line => {
+            if (!isNaN(line.charAt(0)) && line != '') {
+                deckString += `${line.substring(0, line.indexOf('|')).trim()}\n`
+            }            
+        });
+        document.getElementById('outputText').value = deckString
+    })
+</script>
+
+</html>

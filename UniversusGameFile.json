@@ -28,6 +28,7 @@
     "gameplay": {
         "Classic": {
             "mulligan": {
+                "triggeredByButton": true,
                 "info": "",
                 "startingHandSize": "0",
                 "drawNewHand": true,
@@ -98,13 +99,13 @@
                                         {
                                             "section": "Character",
                                             "style": {
-                                                "width": "10vh"
+                                                "width": "15%"
                                             }
                                         },
                                         {
                                             "section": "Momentum",
                                             "style": {
-                                                "width": "10vh"
+                                                "width": "15%"
                                             }
                                         },
                                         {
