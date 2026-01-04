@@ -3543,7 +3543,7 @@
             "sleb-skillToken"
         ]
     },
-    "sleb-skilloken": {
+    "sleb-skillToken": {
         "id": "sleb-skillToken",
         "isToken": true,
         "name": "Shadow Monarch Skill Tree",
