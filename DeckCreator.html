@@ -10,10 +10,13 @@
 
 <body>
     <h3>Deck Code Generator</h3>
+    <p>Copy in a raw deck code/forum code from <a href='https://universus.cards/'>universus.cards</a> or <a href='https://uvsultra.online/'>uvsultra.online</a> into the first box. Click parse button, then copy TCG-Arena compatible deck code from bottom box.</p>
     <textarea id="siteInput"></textarea>
-    <button id="parseButton">Click to Creat Deck!</button>
+    <button id="parseButton">Click to Create Deck!</button>
+    <br />
     <br />
     <textarea id="outputText"></textarea>
+    <button id="copyButton" onclick="copyText()">Click to Copy to Clipboard!</button>
 </body>
 <script>
     // This script is intended to work with a parsed webpage from universus.cards
@@ -41,6 +44,18 @@
         });
         document.getElementById('outputText').value = deckString
     })
+
+    const copyText = () => {
+        // Get the text field
+        var copyText = document.getElementById("outputText");
+
+        // Select the text fieldc
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); // For mobile devices
+
+        // Copy the text inside the text field
+        navigator.clipboard.writeText(copyText.value);
+    }
 </script>
 
 </html>

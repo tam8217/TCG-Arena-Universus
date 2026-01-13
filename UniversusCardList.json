@@ -83367,5 +83367,191 @@
                 "isHorizontal": false
             }
         }
+    },
+    "bl01-001": {
+        "id": "bl01-001",
+        "isToken": false,
+        "name": "Amon, The Forgeknight",
+        "type": "Character",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": "all fire order",
+        "cost": 0,
+        "Keyword": "Brawler",
+        "face": {
+            "front": {
+                "name": "Amon, The Forgeknight",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-001-CH-AmontheForgemaster-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-002": {
+        "id": "bl01-002",
+        "isToken": false,
+        "name": "Harlowe, The Gravitar",
+        "type": "Character",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": "air order void",
+        "cost": 0,
+        "Keyword": "Inventor",
+        "face": {
+            "front": {
+                "name": "Harlowe, The Gravitar",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-002-CH-HarlowetheGravitar-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-003": {
+        "id": "bl01-003",
+        "isToken": false,
+        "name": "Rafa, The Exo-Soldier",
+        "type": "Character",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": "air fire",
+        "cost": 0,
+        "face": {
+            "front": {
+                "name": "Rafa, The Exo-Soldier",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-003-CH-RafatheExo-Soldier-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-004": {
+        "id": "bl01-004",
+        "isToken": false,
+        "name": "Vex, The Siren",
+        "type": "Character",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": "air order",
+        "cost": 0,
+        "Keyword": "Scout",
+        "face": {
+            "front": {
+                "name": "Vex, The Siren",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-004-CH-VextheDarkSiren-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-005": {
+        "id": "bl01-005",
+        "isToken": false,
+        "name": "Walk The Dog",
+        "type": "Attack",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": [
+            "air",
+            "chaos",
+            "order"
+        ],
+        "cost": 8,
+        "Difficulty": 8,
+        "Check Value": 3,
+        "Keyword": [
+            "Powerful",
+            "Ranged",
+            "Stun",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Walk The Dog",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-005-UR-WalktheDog-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-006": {
+        "id": "bl01-006",
+        "isToken": false,
+        "name": "Paying the Cost",
+        "type": "Foundation",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": [
+            "evil",
+            "fire",
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 4,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Paying the Cost",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-006-UC-PayingtheCost-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-007": {
+        "id": "bl01-007",
+        "isToken": false,
+        "name": "Resting Up",
+        "type": "Foundation",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": [
+            "all",
+            "good",
+            "life"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Resting Up",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-007-C-RestingUp-1.png",
+                "isHorizontal": false
+            }
+        }
+    },
+    "bl01-008": {
+        "id": "bl01-008",
+        "isToken": false,
+        "name": "Weapon Clash",
+        "type": "Foundation",
+        "Set": "Borderlands Experience Bundle",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Weapon Clash",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://uvsgames.com/wp-content/uploads/2025/11/BL01-008-R-WeaponClash-1.png",
+                "isHorizontal": false
+            }
+        }
     }
 }

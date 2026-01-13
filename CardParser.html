@@ -5,17 +5,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Parser</title>
-
+    <script type="text/javascript" src="helperScripts.js"></script>
 </head>
 
 <body>
-    <h3>Test</h3>
+    <h3>Card Parser</h3>
+    <p>Copy the URL of a page of cards from <a href='https://universus.cards/'>universus.cards</a> with "Type" set to "Full" into an HTML scraper, such as <a href="https://ultimatewebscraper.com/tools/website-to-text">this one</a>. Place that into the first box, then hit parse.</p>
     <textarea id="siteInput"></textarea>
     <button id="parseButton">Click to Parse!</button>
     <br />
+    <br />
     <textarea id="outputText"></textarea>
+    <button id="copyButton" onclick="copyText()">Click to Copy to Clipboard!</button>
+
 </body>
-<script>
+<script> 
+    // import axios from 'axios'
     // This script is intended to work with a parsed webpage from universus.cards
     // An example scraper can can be found here https://ultimatewebscraper.com/tools/website-to-text
     document.getElementById('parseButton').addEventListener('click', e => {
@@ -179,6 +184,18 @@
         objString += ','
         document.getElementById('outputText').value = objString
     })
+
+    const copyText = () => {
+        // Get the text field
+        var copyText = document.getElementById("outputText");
+
+        // Select the text fieldc
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); // For mobile devices
+
+        // Copy the text inside the text field
+        navigator.clipboard.writeText(copyText.value);
+    }
 </script>
 
 </html>

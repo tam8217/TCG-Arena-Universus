@@ -128,91 +128,91 @@
             "Character": [
                 {
                     "count": 1,
-                    "id": "cb02-2"
+                    "id": "cb02-002"
                 }
             ],
             "Attack": [
                 {
                     "count": 4,
-                    "id": "cb02-5"
+                    "id": "cb02-005"
                 },
                 {
                     "count": 2,
-                    "id": "cb02-6"
+                    "id": "cb02-006"
                 },
                 {
                     "count": 3,
-                    "id": "cb02-7"
+                    "id": "cb02-007"
                 },
                 {
                     "count": 3,
-                    "id": "cb02-8"
+                    "id": "cb02-008"
                 },
                 {
                     "count": 3,
-                    "id": "cb02-9"
+                    "id": "cb02-009"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-10"
+                    "id": "cb02-010"
                 },
                 {
                     "count": 2,
-                    "id": "cb02-11"
+                    "id": "cb02-011"
                 }
             ],
             "Foundation": [
                 {
                     "count": 2,
-                    "id": "cb02-12"
+                    "id": "cb02-012"
                 },
                 {
                     "count": 3,
-                    "id": "cb02-13"
+                    "id": "cb02-013"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-14"
+                    "id": "cb02-014"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-15"
+                    "id": "cb02-015"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-16"
+                    "id": "cb02-016"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-17"
+                    "id": "cb02-017"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-18"
+                    "id": "cb02-018"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-19"
+                    "id": "cb02-019"
                 },
                 {
                     "count": 4,
-                    "id": "cb02-20"
+                    "id": "cb02-020"
                 },
                 {
                     "count": 2,
-                    "id": "cb02-21"
+                    "id": "cb02-021"
                 }
             ],
             "Action": [
                 {
                     "count": 2,
-                    "id": "cb02-3"
+                    "id": "cb02-003"
                 }
             ],
             "Asset": [
                 {
                     "count": 2,
-                    "id": "cb02-4"
+                    "id": "cb02-004"
                 }
             ]
         }
@@ -542,6 +542,115 @@
                 {
                     "count": 2,
                     "id": "sl01-002"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Challenger Deck: MHA Dark Hero Arc - Izuku",
+        "id": "Challenger Deck: MHA Dark Hero Arc - Izuku",
+        "game": "Universus",
+        "format": "Classic",
+        "cardCount": 61,
+        "createdAt": "2025-12-31T14:00:00.000Z",
+        "lastModifiedAt": "2025-12-31T14:00:00.000Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation",
+                "Asset",
+                "Backup",
+                "Action"
+            ],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "mha08-001"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "mha08-004"
+                },
+                {
+                    "count": 3,
+                    "id": "mha08-005"
+                },
+                {
+                    "count": 2,
+                    "id": "mha08-006"
+                },
+                {
+                    "count": 2,
+                    "id": "mha08-007"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-008"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-009"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-010"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "mha08-011"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-012"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-013"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-014"
+                },
+                {
+                    "count": 2,
+                    "id": "mha08-015"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-016"
+                },
+                {
+                    "count": 3,
+                    "id": "mha08-017"
+                },
+                {
+                    "count": 3,
+                    "id": "mha08-018"
+                },
+                {
+                    "count": 4,
+                    "id": "mha08-019"
+                },
+                {
+                    "count": 3,
+                    "id": "mha08-020"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "mha08-002"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "mha08-003"
                 }
             ]
         }
