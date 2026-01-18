@@ -757,8 +757,8 @@
         }
     },
     {
-        "title": "Jin Starter",
-        "id": "eeeff946-037a-4e7c-8635-526df95dabd4",
+        "title": "Clash Deck - Jin Starter",
+        "id": "Clash Deck - Jin Starter",
         "game": "Universus",
         "format": [
             "Classic"
@@ -853,6 +853,443 @@
                 {
                     "count": 2,
                     "id": "tk801-018"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Percy Starter Deck",
+        "id": "Percy Starter Deck",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 61,
+        "createdAt": "2026-01-18T15:05:13.246Z",
+        "lastModifiedAt": "2026-01-18T15:09:41.419Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Foundation",
+                "Attack",
+                "Asset",
+                "Backup"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "cr02-213"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "cr02-033"
+                },
+                {
+                    "count": 2,
+                    "id": "cr02-125"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-058"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-030"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-031"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-127"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-128"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-035"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-032"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "cr02-023"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-026"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-028"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-024"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-022"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-116"
+                },
+                {
+                    "count": 2,
+                    "id": "cr02-053"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "cr02-164"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-021"
+                }
+            ],
+            "Backup": [
+                {
+                    "count": 2,
+                    "id": "cr02-172"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Beau Starter",
+        "id": "Beau Starter",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 61,
+        "createdAt": "2026-01-18T15:12:01.422Z",
+        "lastModifiedAt": "2026-01-18T15:17:08.217Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Foundation",
+                "Attack",
+                "Asset",
+                "Backup"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "cr02-212"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 2,
+                    "id": "cr02-158"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-155"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-094"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-161"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-154"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-091"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-156"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-157"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-092"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-078"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "cr02-151"
+                },
+                {
+                    "count": 2,
+                    "id": "cr02-085"
+                },
+                {
+                    "count": 2,
+                    "id": "cr02-072"
+                },
+                {
+                    "count": 3,
+                    "id": "cr02-087"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-084"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-152"
+                },
+                {
+                    "count": 4,
+                    "id": "cr02-148"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "cr02-164"
+                }
+            ],
+            "Backup": [
+                {
+                    "count": 2,
+                    "id": "cr02-173"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Challenger Deck: Critical Role - Vax",
+        "id": "Challenger Deck: Critical Role - Vax",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 61,
+        "createdAt": "2026-01-18T15:19:29.319Z",
+        "lastModifiedAt": "2026-01-18T15:30:51.171Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Action",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "crvm-001"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "crvm-003"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "crvm-007"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-008"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-009"
+                },
+                {
+                    "count": 3,
+                    "id": "promo2024-203"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-010"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-011"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-006"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "crvm-014"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-012"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-015"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-017"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-013"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-016"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-018"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-019"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-020"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-021"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Challenger Deck: Critical Role - Vex",
+        "id": "Challenger Deck: Critical Role - Vex",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 63,
+        "createdAt": "2026-01-18T15:31:59.897Z",
+        "lastModifiedAt": "2026-01-18T15:33:28.607Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Action",
+                "Asset",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "crvm-002"
+                }
+            ],
+            "Action": [
+                {
+                    "count": 2,
+                    "id": "crvm-003"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 2,
+                    "id": "crvm-004"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 4,
+                    "id": "crvm-007"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-008"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-009"
+                },
+                {
+                    "count": 3,
+                    "id": "promo2024-203"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-010"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-011"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-006"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "crvm-014"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-012"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-015"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-017"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-013"
+                },
+                {
+                    "count": 3,
+                    "id": "crvm-016"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-018"
+                },
+                {
+                    "count": 4,
+                    "id": "crvm-019"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-020"
+                },
+                {
+                    "count": 2,
+                    "id": "crvm-021"
                 }
             ]
         }
