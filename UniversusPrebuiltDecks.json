@@ -654,5 +654,207 @@
                 }
             ]
         }
+    },
+    {
+        "title": "Clash Deck - Jun Starter",
+        "id": "Clash Deck - Jun Starter",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 61,
+        "createdAt": "2026-01-18T14:55:03.766Z",
+        "lastModifiedAt": "2026-01-18T14:55:47.134Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "tk801-020"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "tk801-026"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-022"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-024"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-027"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-023"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-025"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-021"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "tk801-028"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-030"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-033"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-034"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-029"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-031"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-032"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-035"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-036"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-038"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-037"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Jin Starter",
+        "id": "eeeff946-037a-4e7c-8635-526df95dabd4",
+        "game": "Universus",
+        "format": [
+            "Classic"
+        ],
+        "cardCount": 61,
+        "createdAt": "2026-01-18T14:59:41.548Z",
+        "lastModifiedAt": "2026-01-18T14:59:45.579Z",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "tk801-001"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "tk801-002"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-004"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-003"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-006"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-008"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-005"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-007"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "tk801-015"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-010"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-019"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-016"
+                },
+                {
+                    "count": 3,
+                    "id": "tk801-009"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-013"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-011"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-012"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-014"
+                },
+                {
+                    "count": 4,
+                    "id": "tk801-017"
+                },
+                {
+                    "count": 2,
+                    "id": "tk801-018"
+                }
+            ]
+        }
     }
 ]
