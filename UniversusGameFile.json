@@ -5,7 +5,7 @@
         "backgrounds": [],
         "decksUrl": "https://tam8217.github.io/TCG-Arena-Universus/UniversusPrebuiltDecks.json"
     },
-    "customHelp": "- To check cards, you can: hold the 'D' key and click on your deck, or click and drag from your deck to the discard pile\n- To flip a card, hold the 'Z' key and click on the card, or right click and select 'Flip' on the card",
+    "customHelp": "- To check cards, you can: hold the 'D' key and click on your deck, or click and drag from your deck to the discard pile\n- Speed and Damage can be tracked on attacks using Counter 1 (hold 'C' and click a card) and Counter 2 (hold 'Ctrl' + 'C' and click on a card)\n-- Zone can be tracked using tokens from the middle-left of the screen\n--- The other tokens are for Frozen cards and Sealed cards\n- To play a card face down/flip a foundation, hold the 'Z' key and click on the card (can be done in the hand to play a card face down)\n-- For dual faced cards, hold 'Ctrl + Z' and click a card, or right click and select 'Flip' on the card\n- Roman cancel tokens and Skill Tree tokens can be generated from the Token button on the left side",
     "cardRotation": "90",
     "cards": {
         "dataUrl": "https://tam8217.github.io/TCG-Arena-Universus/UniversusCardList.json",
