@@ -5,7 +5,7 @@
         "backgrounds": [],
         "decksUrl": "https://tam8217.github.io/TCG-Arena-Universus/UniversusPrebuiltDecks.json"
     },
-    "customHelp": "Universus Help Message",
+    "customHelp": "- To check cards, you can: hold the 'D' key and click on your deck, or click and drag from your deck to the discard pile<br />- To flip a card, hold the 'Z' key and click on the card, or right click and select 'Flip' on the card",
     "cardRotation": "90",
     "cards": {
         "dataUrl": "https://tam8217.github.io/TCG-Arena-Universus/UniversusCardList.json",
@@ -21,6 +21,22 @@
         "formats": [
             {
                 "title": "Classic",
+                "gameplay": "Classic"
+            },
+            {
+                "title": "MHA",
+                "gameplay": "Classic"
+            },
+            {
+                "title": "Retro",
+                "gameplay": "Classic"
+            },
+            {
+                "title": "RocRetro",
+                "gameplay": "Classic"
+            },
+            {
+                "title": "Alpha",
                 "gameplay": "Classic"
             }
         ]
@@ -43,7 +59,7 @@
             },
             "defaultNotes": "",
             "countersStartingValues": [
-                "38"
+                "30"
             ],
             "hideFacedDownCards": false,
             "draggableTokens": [
