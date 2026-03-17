@@ -1,5 +1,253 @@
 [
     {
+        "createdAt": {
+            "type": "firestore/timestamp/1.0",
+            "seconds": 1773373865,
+            "nanoseconds": 17000000
+        },
+        "game": "Universus",
+        "cardCount": 63,
+        "format": [
+            "Classic"
+        ],
+        "title": "Challenger Deck: KOF XV - Team Hero",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Asset",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "kf01-001"
+                },
+                {
+                    "count": 1,
+                    "id": "kf01-002"
+                },
+                {
+                    "count": 1,
+                    "id": "kf01-003"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 3,
+                    "id": "kf01-004"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "kf01-005"
+                },
+                {
+                    "count": 2,
+                    "id": "kf01-006"
+                },
+                {
+                    "count": 3,
+                    "id": "kf01-007"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-008"
+                },
+                {
+                    "count": 3,
+                    "id": "kf01-009"
+                },
+                {
+                    "count": 2,
+                    "id": "kf01-010"
+                },
+                {
+                    "count": 2,
+                    "id": "kf01-011"
+                },
+                {
+                    "count": 2,
+                    "id": "kf01-012"
+                },
+                {
+                    "count": 2,
+                    "id": "kf01-013"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 3,
+                    "id": "kf01-014"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-015"
+                },
+                {
+                    "count": 3,
+                    "id": "kf01-016"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-017"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-018"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-019"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-020"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-021"
+                },
+                {
+                    "count": 4,
+                    "id": "kf01-022"
+                }
+            ]
+        },
+        "id": "3e17d7cb-58a1-4a3c-94e6-8861820f8550",
+        "lastModifiedAt": {
+            "type": "firestore/timestamp/1.0",
+            "seconds": 1773373865,
+            "nanoseconds": 17000000
+        }
+    },
+    {
+        "createdAt": {
+            "type": "firestore/timestamp/1.0",
+            "seconds": 1773373865,
+            "nanoseconds": 17000000
+        },
+        "game": "Universus",
+        "cardCount": 63,
+        "format": [
+            "Classic"
+        ],
+        "title": "Challenger Deck: KOF XV - Team Rival",
+        "deckList": {
+            "categoriesOrder": [
+                "Character",
+                "Asset",
+                "Attack",
+                "Foundation"
+            ],
+            "Sideboard": [],
+            "Character": [
+                {
+                    "count": 1,
+                    "id": "kf02-001"
+                },
+                {
+                    "count": 1,
+                    "id": "kf02-002"
+                },
+                {
+                    "count": 1,
+                    "id": "kf02-003"
+                }
+            ],
+            "Asset": [
+                {
+                    "count": 3,
+                    "id": "kf02-004"
+                }
+            ],
+            "Attack": [
+                {
+                    "count": 2,
+                    "id": "kf02-005"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-006"
+                },
+                {
+                    "count": 2,
+                    "id": "kf02-007"
+                },
+                {
+                    "count": 2,
+                    "id": "kf02-008"
+                },
+                {
+                    "count": 3,
+                    "id": "kf02-009"
+                },
+                {
+                    "count": 2,
+                    "id": "kf02-010"
+                },
+                {
+                    "count": 2,
+                    "id": "kf02-011"
+                },
+                {
+                    "count": 3,
+                    "id": "kf02-012"
+                },
+                {
+                    "count": 2,
+                    "id": "kf02-013"
+                }
+            ],
+            "Foundation": [
+                {
+                    "count": 4,
+                    "id": "kf02-014"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-015"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-016"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-017"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-018"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-019"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-020"
+                },
+                {
+                    "count": 4,
+                    "id": "kf02-021"
+                },
+                {
+                    "count": 3,
+                    "id": "kf02-022"
+                }
+            ]
+        },
+        "id": "3e17d7cb-58a1-4a3c-94e6-8861820f8550",
+        "lastModifiedAt": {
+            "type": "firestore/timestamp/1.0",
+            "seconds": 1773373865,
+            "nanoseconds": 17000000
+        }
+    },
+    {
         "title": "Challenger Deck: Cowboy Bebop - Spike",
         "id": "Challenger Deck: Cowboy Bebop - Spike",
         "game": "Universus",

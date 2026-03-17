@@ -13,6 +13,4964 @@
         "name": "Roman Cancel",
         "Set": "Guilty Gear -Strive-"
     },
+    "gdz01-000": {
+        "id": "gdz01-000",
+        "isToken": true,
+        "name": "Power",
+        "type": "Token",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": -1,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Power",
+                "type": "Token",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/000.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-001": {
+        "id": "gdz01-001",
+        "isToken": false,
+        "name": "Anguirus, Fierce Dragon",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "earth",
+            "fire"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Anguirus, Fierce Dragon",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/001.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-002": {
+        "id": "gdz01-002",
+        "isToken": false,
+        "name": "Battra, Beast of Destruction",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Battra, Beast of Destruction",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/002.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-003": {
+        "id": "gdz01-003",
+        "isToken": false,
+        "name": "Biollante, Giant Plant Monster",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Biollante, Giant Plant Monster",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/003.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-004": {
+        "id": "gdz01-004",
+        "isToken": false,
+        "name": "Burning Godzilla",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "void"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Burning Godzilla",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/004.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-005": {
+        "id": "gdz01-005",
+        "isToken": false,
+        "name": "Destoroyah, Perfect Lifeform",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "life",
+            "water"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Destoroyah, Perfect Lifeform",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/005.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-006": {
+        "id": "gdz01-006",
+        "isToken": false,
+        "name": "Gigan, Space Monster",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Gigan, Space Monster",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/006.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-007": {
+        "id": "gdz01-007",
+        "isToken": false,
+        "name": "Godzilla, Shin Godzilla",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla, Shin Godzilla",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/007.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-008": {
+        "id": "gdz01-008",
+        "isToken": false,
+        "name": "Godzilla, Titan of Terror",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla, Titan of Terror",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/008.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-009": {
+        "id": "gdz01-009",
+        "isToken": false,
+        "name": "Hedorah, Smog Monster",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Hedorah, Smog Monster",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/009.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-010": {
+        "id": "gdz01-010",
+        "isToken": false,
+        "name": "Jet Jaguar, Warrior of Justice",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "good",
+            "void"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant"
+        ],
+        "face": {
+            "front": {
+                "name": "Jet Jaguar, Warrior of Justice",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/010.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-011": {
+        "id": "gdz01-011",
+        "isToken": false,
+        "name": "King Ghidorah, Three-Headed Monster",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "death",
+            "evil"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "King Ghidorah, Three-Headed Monster",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/011.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-012": {
+        "id": "gdz01-012",
+        "isToken": false,
+        "name": "Mechagodzilla, Modified Type-3 Kiryu",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "good",
+            "order"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant"
+        ],
+        "face": {
+            "front": {
+                "name": "Mechagodzilla, Modified Type-3 Kiryu",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/012.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-013": {
+        "id": "gdz01-013",
+        "isToken": false,
+        "name": "Mothra, Divine Moth",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Mothra, Divine Moth",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/013.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-014": {
+        "id": "gdz01-014",
+        "isToken": false,
+        "name": "Rodan, Fire Rodan",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "fire",
+            "void"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "Rodan, Fire Rodan",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/014.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-015": {
+        "id": "gdz01-015",
+        "isToken": false,
+        "name": "SpaceGodzilla, Bio-Quartz Monster",
+        "type": "Character",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 0,
+        "Keyword": [
+            "Giant",
+            "Monster"
+        ],
+        "face": {
+            "front": {
+                "name": "SpaceGodzilla, Bio-Quartz Monster",
+                "type": "Character",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/015.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-016": {
+        "id": "gdz01-016",
+        "isToken": false,
+        "name": "Sky Dominance",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Sky Dominance",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/016.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-017": {
+        "id": "gdz01-017",
+        "isToken": false,
+        "name": "Antenna Beams",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Antenna Beams",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/017.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-018": {
+        "id": "gdz01-018",
+        "isToken": false,
+        "name": "Plunging Talon",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Plunging Talon",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/018.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-019": {
+        "id": "gdz01-019",
+        "isToken": false,
+        "name": "Cybertronic Weaponry",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Cybertronic Weaponry",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/019.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-020": {
+        "id": "gdz01-020",
+        "isToken": false,
+        "name": "Hovering Above",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Hovering Above",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/020.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-021": {
+        "id": "gdz01-021",
+        "isToken": false,
+        "name": "Invade from Space",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Invade from Space",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/021.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-022": {
+        "id": "gdz01-022",
+        "isToken": false,
+        "name": "Gathered Energy",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Gathered Energy",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/022.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-023": {
+        "id": "gdz01-023",
+        "isToken": false,
+        "name": "Otherworldy Power",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury"
+        ],
+        "face": {
+            "front": {
+                "name": "Otherworldy Power",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/023.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-024": {
+        "id": "gdz01-024",
+        "isToken": false,
+        "name": "Adapting Tactics",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Adapting Tactics",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/024.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-025": {
+        "id": "gdz01-025",
+        "isToken": false,
+        "name": "Built for Battle",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Built for Battle",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/025.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-026": {
+        "id": "gdz01-026",
+        "isToken": false,
+        "name": "Terrorizing Force",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Terrorizing Force",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/026.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-027": {
+        "id": "gdz01-027",
+        "isToken": false,
+        "name": "Crystal Formation",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Crystal Formation",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/027.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-028": {
+        "id": "gdz01-028",
+        "isToken": false,
+        "name": "Jet Front Kick",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Kick",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Jet Front Kick",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/028.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-029": {
+        "id": "gdz01-029",
+        "isToken": false,
+        "name": "Paired Beams",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 2,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Paired Beams",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/029.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-030": {
+        "id": "gdz01-030",
+        "isToken": false,
+        "name": "Spiked Tail Whip",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Spiked Tail Whip",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/030.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-031": {
+        "id": "gdz01-031",
+        "isToken": false,
+        "name": "Collateral Destruction",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Collateral Destruction",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/031.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-032": {
+        "id": "gdz01-032",
+        "isToken": false,
+        "name": "Volatile Encounter",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Volatile Encounter",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/032.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-033": {
+        "id": "gdz01-033",
+        "isToken": false,
+        "name": "Monster of the Deep",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Monster of the Deep",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/033.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-034": {
+        "id": "gdz01-034",
+        "isToken": false,
+        "name": "Horn Stab",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Powerful",
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Horn Stab",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/034.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-035": {
+        "id": "gdz01-035",
+        "isToken": false,
+        "name": "Sweeping Destruction",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Sweeping Destruction",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/035.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-036": {
+        "id": "gdz01-036",
+        "isToken": false,
+        "name": "Weaponized Wreckage",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Weaponized Wreckage",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/036.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-037": {
+        "id": "gdz01-037",
+        "isToken": false,
+        "name": "Destoroyah Emerges",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Destoroyah Emerges",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/037.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-038": {
+        "id": "gdz01-038",
+        "isToken": false,
+        "name": "Destructive Tendencies",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Destructive Tendencies",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/038.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-039": {
+        "id": "gdz01-039",
+        "isToken": false,
+        "name": "Hold 'Em Down",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Throw"
+        ],
+        "face": {
+            "front": {
+                "name": "Hold 'Em Down",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/039.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-040": {
+        "id": "gdz01-040",
+        "isToken": false,
+        "name": "Shrouded Swing",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Shrouded Swing",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/040.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-041": {
+        "id": "gdz01-041",
+        "isToken": false,
+        "name": "Tail Trip",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Stun",
+            "Throw"
+        ],
+        "face": {
+            "front": {
+                "name": "Tail Trip",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/041.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-042": {
+        "id": "gdz01-042",
+        "isToken": false,
+        "name": "Defiant Roar",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Defiant Roar",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/042.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-043": {
+        "id": "gdz01-043",
+        "isToken": false,
+        "name": "Hedrium Endurance",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            "Deflect"
+        ],
+        "face": {
+            "front": {
+                "name": "Hedrium Endurance",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/043.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-044": {
+        "id": "gdz01-044",
+        "isToken": false,
+        "name": "Natural Cover",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Natural Cover",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/044.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-045": {
+        "id": "gdz01-045",
+        "isToken": false,
+        "name": "Towering Stature",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Towering Stature",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/045.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-046": {
+        "id": "gdz01-046",
+        "isToken": false,
+        "name": "Bloody Chainsaws",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury"
+        ],
+        "face": {
+            "front": {
+                "name": "Bloody Chainsaws",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/046.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-047": {
+        "id": "gdz01-047",
+        "isToken": false,
+        "name": "Hammer-Hand Pierce",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Frenzy",
+            "Fury",
+            "Punch",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Hammer-Hand Pierce",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/047.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-048": {
+        "id": "gdz01-048",
+        "isToken": false,
+        "name": "Mechanical Legion",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 2,
+        "Keyword": [
+            "Echo",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Mechanical Legion",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/048.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-049": {
+        "id": "gdz01-049",
+        "isToken": false,
+        "name": "Intimidating Size",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Intimidating Size",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/049.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-050": {
+        "id": "gdz01-050",
+        "isToken": false,
+        "name": "Need for Destruction",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Need for Destruction",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/050.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-051": {
+        "id": "gdz01-051",
+        "isToken": false,
+        "name": "Spiteful Intentions",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Spiteful Intentions",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/051.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-052": {
+        "id": "gdz01-052",
+        "isToken": false,
+        "name": "The Power of SpaceGodzilla",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "evil"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "The Power of SpaceGodzilla",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/052.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-053": {
+        "id": "gdz01-053",
+        "isToken": false,
+        "name": "Unbelievable Power",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Unbelievable Power",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/053.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-054": {
+        "id": "gdz01-054",
+        "isToken": false,
+        "name": "Monster Swing",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Slam",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Monster Swing",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/054.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-055": {
+        "id": "gdz01-055",
+        "isToken": false,
+        "name": "Rapid Talon Slash",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Rapid Talon Slash",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/055.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-056": {
+        "id": "gdz01-056",
+        "isToken": false,
+        "name": "Roar of the Kaiju",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Roar of the Kaiju",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/056.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-057": {
+        "id": "gdz01-057",
+        "isToken": false,
+        "name": "Savage Combatants",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Savage Combatants",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/057.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-058": {
+        "id": "gdz01-058",
+        "isToken": false,
+        "name": "Protector of Life",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Protector of Life",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/058.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-059": {
+        "id": "gdz01-059",
+        "isToken": false,
+        "name": "Jet Somersault Kick",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Kick"
+        ],
+        "face": {
+            "front": {
+                "name": "Jet Somersault Kick",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/059.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-060": {
+        "id": "gdz01-060",
+        "isToken": false,
+        "name": "Benevolent Kaiju",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Benevolent Kaiju",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/060.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-061": {
+        "id": "gdz01-061",
+        "isToken": false,
+        "name": "Harmonious Spirit",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Harmonious Spirit",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/061.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-062": {
+        "id": "gdz01-062",
+        "isToken": false,
+        "name": "Standing Tall",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Standing Tall",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/062.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-063": {
+        "id": "gdz01-063",
+        "isToken": false,
+        "name": "Threat Neutralized",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Tech",
+            "Unique"
+        ],
+        "face": {
+            "front": {
+                "name": "Threat Neutralized",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/063.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-064": {
+        "id": "gdz01-064",
+        "isToken": false,
+        "name": "Gale-Force Winds",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "life"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Gale-Force Winds",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/064.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-065": {
+        "id": "gdz01-065",
+        "isToken": false,
+        "name": "Scattering Gust",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "life"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Scattering Gust",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/065.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-066": {
+        "id": "gdz01-066",
+        "isToken": false,
+        "name": "Rampant Growth",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Rampant Growth",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/066.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-067": {
+        "id": "gdz01-067",
+        "isToken": false,
+        "name": "Resilient Spirit",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "life"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Resilient Spirit",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/067.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-068": {
+        "id": "gdz01-068",
+        "isToken": false,
+        "name": "Wrath of Godzilla",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Wrath of Godzilla",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/068.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-069": {
+        "id": "gdz01-069",
+        "isToken": false,
+        "name": "Beam Combo",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "order"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker",
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Beam Combo",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/069.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-070": {
+        "id": "gdz01-070",
+        "isToken": false,
+        "name": "Mouth Cannon",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "order"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Mouth Cannon",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/070.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-071": {
+        "id": "gdz01-071",
+        "isToken": false,
+        "name": "Multiple Interlocking Rockets",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "order"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Stun",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Multiple Interlocking Rockets",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/071.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-072": {
+        "id": "gdz01-072",
+        "isToken": false,
+        "name": "Advanced Preparations",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "order"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Advanced Preparations",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/072.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-073": {
+        "id": "gdz01-073",
+        "isToken": false,
+        "name": "Mechagodzilla Arrives",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "order"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Mechagodzilla Arrives",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/073.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-074": {
+        "id": "gdz01-074",
+        "isToken": false,
+        "name": "Crashing Down",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "EX",
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Crashing Down",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/074.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-075": {
+        "id": "gdz01-075",
+        "isToken": false,
+        "name": "Overwhelming Force",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Punch"
+        ],
+        "face": {
+            "front": {
+                "name": "Overwhelming Force",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/075.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-076": {
+        "id": "gdz01-076",
+        "isToken": false,
+        "name": "Colossal Staredown",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Colossal Staredown",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/076.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-077": {
+        "id": "gdz01-077",
+        "isToken": false,
+        "name": "Intergalactic Monster",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Intergalactic Monster",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/077.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-078": {
+        "id": "gdz01-078",
+        "isToken": false,
+        "name": "Ruthless Guardian",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Ruthless Guardian",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/078.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-079": {
+        "id": "gdz01-079",
+        "isToken": false,
+        "name": "Valiant Hero",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Valiant Hero",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/079.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-080": {
+        "id": "gdz01-080",
+        "isToken": false,
+        "name": "Unnatural Growth",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Unnatural Growth",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/080.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-081": {
+        "id": "gdz01-081",
+        "isToken": false,
+        "name": "Acidic Sap",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Acidic Sap",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/081.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-082": {
+        "id": "gdz01-082",
+        "isToken": false,
+        "name": "Aquatic Approach",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Aquatic Approach",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/082.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-083": {
+        "id": "gdz01-083",
+        "isToken": false,
+        "name": "Tangled Grasp",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Throw"
+        ],
+        "face": {
+            "front": {
+                "name": "Tangled Grasp",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/083.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-084": {
+        "id": "gdz01-084",
+        "isToken": false,
+        "name": "Absorbing Pollution",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Absorbing Pollution",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/084.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-085": {
+        "id": "gdz01-085",
+        "isToken": false,
+        "name": "Transforming Body",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "water"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Transforming Body",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/085.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-086": {
+        "id": "gdz01-086",
+        "isToken": false,
+        "name": "Air Force Engage",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 2,
+        "Keyword": [
+            "Ranged",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Air Force Engage",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/086.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-087": {
+        "id": "gdz01-087",
+        "isToken": false,
+        "name": "Engage the Monster",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Engage the Monster",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/087.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-088": {
+        "id": "gdz01-088",
+        "isToken": false,
+        "name": "Ground Forces Engage",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Stun",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Ground Forces Engage",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/088.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-089": {
+        "id": "gdz01-089",
+        "isToken": false,
+        "name": "Humanity Fights On",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 13,
+        "Difficulty": 13,
+        "Check Value": 4,
+        "Keyword": [
+            "Powerful"
+        ],
+        "face": {
+            "front": {
+                "name": "Humanity Fights On",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/089.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-090": {
+        "id": "gdz01-090",
+        "isToken": false,
+        "name": "Repelling Fire",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 4,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Repelling Fire",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/090.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-091": {
+        "id": "gdz01-091",
+        "isToken": false,
+        "name": "Combat Submarine",
+        "type": "Backup",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Combat Submarine",
+                "type": "Backup",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/091.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-092": {
+        "id": "gdz01-092",
+        "isToken": false,
+        "name": "Fighter Jets",
+        "type": "Backup",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Fighter Jets",
+                "type": "Backup",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/092.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-093": {
+        "id": "gdz01-093",
+        "isToken": false,
+        "name": "Ancient Research",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 5,
+        "Keyword": [
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Ancient Research",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/093.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-094": {
+        "id": "gdz01-094",
+        "isToken": false,
+        "name": "Defensive Preparations",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Defensive Preparations",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/094.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-095": {
+        "id": "gdz01-095",
+        "isToken": false,
+        "name": "Final Wars",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Unique"
+        ],
+        "face": {
+            "front": {
+                "name": "Final Wars",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/095.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-096": {
+        "id": "gdz01-096",
+        "isToken": false,
+        "name": "High Guard",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "High Guard",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/096.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-097": {
+        "id": "gdz01-097",
+        "isToken": false,
+        "name": "Low Guard",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 0,
+        "Difficulty": 0,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Low Guard",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/097.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-098": {
+        "id": "gdz01-098",
+        "isToken": false,
+        "name": "Strategy Meeting",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "infinity"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Strategy Meeting",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/098.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-099": {
+        "id": "gdz01-099",
+        "isToken": false,
+        "name": "Emerge from the Depths",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 4,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Emerge from the Depths",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/099.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-100": {
+        "id": "gdz01-100",
+        "isToken": false,
+        "name": "Power of the Monsters",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "order",
+            "void"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Power of the Monsters",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/100.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-101": {
+        "id": "gdz01-101",
+        "isToken": false,
+        "name": "Repair",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "good",
+            "life"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Repair",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/101.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-102": {
+        "id": "gdz01-102",
+        "isToken": false,
+        "name": "Sacred Guardian",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Sacred Guardian",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/102.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-103": {
+        "id": "gdz01-103",
+        "isToken": false,
+        "name": "Total Destruction",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "evil"
+        ],
+        "cost": 8,
+        "Difficulty": 8,
+        "Check Value": 4,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Total Destruction",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/103.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-104": {
+        "id": "gdz01-104",
+        "isToken": false,
+        "name": "Xilien Invasion",
+        "type": "Action",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "chaos",
+            "evil"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Xilien Invasion",
+                "type": "Action",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/104.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-105": {
+        "id": "gdz01-105",
+        "isToken": false,
+        "name": "Acidic Clutches",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Acidic Clutches",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/105.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-106": {
+        "id": "gdz01-106",
+        "isToken": false,
+        "name": "Acidic Sludge",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Deflect",
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Acidic Sludge",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/106.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-107": {
+        "id": "gdz01-107",
+        "isToken": false,
+        "name": "Airborne Ambush",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 1,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Airborne Ambush",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/107.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-108": {
+        "id": "gdz01-108",
+        "isToken": false,
+        "name": "Alien Incursion",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "evil",
+            "order"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Alien Incursion",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/108.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-109": {
+        "id": "gdz01-109",
+        "isToken": false,
+        "name": "Anguirus Ball",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "earth",
+            "fire"
+        ],
+        "cost": 8,
+        "Difficulty": 8,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker",
+            "EX",
+            "Fury",
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Anguirus Ball",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/109.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-110": {
+        "id": "gdz01-110",
+        "isToken": false,
+        "name": "Bite and Claw",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Punch"
+        ],
+        "face": {
+            "front": {
+                "name": "Bite and Claw",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/110.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-111": {
+        "id": "gdz01-111",
+        "isToken": false,
+        "name": "Bladed Uppercut",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "EX",
+            "Frenzy",
+            "Fury",
+            "Powerful",
+            "Punch",
+            "Stun",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Bladed Uppercut",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/111.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-112": {
+        "id": "gdz01-112",
+        "isToken": false,
+        "name": "Blasting Off",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "good",
+            "order"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Stun",
+            "EX",
+            "Powerful",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Blasting Off",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/112.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-113": {
+        "id": "gdz01-113",
+        "isToken": false,
+        "name": "Brutal Bite",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "earth",
+            "fire"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 2,
+        "Keyword": [
+            "Fury"
+        ],
+        "face": {
+            "front": {
+                "name": "Brutal Bite",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/113.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-114": {
+        "id": "gdz01-114",
+        "isToken": false,
+        "name": "Bug Bite",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Bug Bite",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/114.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-115": {
+        "id": "gdz01-115",
+        "isToken": false,
+        "name": "Burning Fury",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "void"
+        ],
+        "cost": 6,
+        "Difficulty": 6,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury"
+        ],
+        "face": {
+            "front": {
+                "name": "Burning Fury",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/115.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-116": {
+        "id": "gdz01-116",
+        "isToken": false,
+        "name": "Corona Beam",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Corona Beam",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/116.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-117": {
+        "id": "gdz01-117",
+        "isToken": false,
+        "name": "Corrosive Body",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Deflect"
+        ],
+        "face": {
+            "front": {
+                "name": "Corrosive Body",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/117.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-118": {
+        "id": "gdz01-118",
+        "isToken": false,
+        "name": "Crushing Impact",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Crushing Impact",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/118.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-119": {
+        "id": "gdz01-119",
+        "isToken": false,
+        "name": "Deep-Sea Shred",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Deep-Sea Shred",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/119.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-120": {
+        "id": "gdz01-120",
+        "isToken": false,
+        "name": "Destructive Heat Ray",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Destructive Heat Ray",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/120.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-121": {
+        "id": "gdz01-121",
+        "isToken": false,
+        "name": "Flying Menace",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "life",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Flying Menace",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/121.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-122": {
+        "id": "gdz01-122",
+        "isToken": false,
+        "name": "Focused Prism Beams",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Powerful",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Focused Prism Beams",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/122.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-123": {
+        "id": "gdz01-123",
+        "isToken": false,
+        "name": "Frenzied Dive",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "fire",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "EX",
+            "Fury",
+            "Powerful"
+        ],
+        "face": {
+            "front": {
+                "name": "Frenzied Dive",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/123.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-124": {
+        "id": "gdz01-124",
+        "isToken": false,
+        "name": "Fully-Charged Blast",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "good",
+            "water"
+        ],
+        "cost": 7,
+        "Difficulty": 7,
+        "Check Value": 4,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Fully-Charged Blast",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/124.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-125": {
+        "id": "gdz01-125",
+        "isToken": false,
+        "name": "Fusion Chest Cannon",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "good",
+            "order"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker",
+            "Charge",
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Fusion Chest Cannon",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/125.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-126": {
+        "id": "gdz01-126",
+        "isToken": false,
+        "name": "Gliding Approach",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Stun"
+        ],
+        "face": {
+            "front": {
+                "name": "Gliding Approach",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/126.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-127": {
+        "id": "gdz01-127",
+        "isToken": false,
+        "name": "Golden Destruction",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "death",
+            "evil"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Echo",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Golden Destruction",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/127.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-128": {
+        "id": "gdz01-128",
+        "isToken": false,
+        "name": "Gravity-Beam Volley",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "death",
+            "evil"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 1,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Gravity-Beam Volley",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/128.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-129": {
+        "id": "gdz01-129",
+        "isToken": false,
+        "name": "Growing Grasp",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "EX",
+            "Throw"
+        ],
+        "face": {
+            "front": {
+                "name": "Growing Grasp",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/129.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-130": {
+        "id": "gdz01-130",
+        "isToken": false,
+        "name": "Hammer-Hand Pummel",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Powerful",
+            "Punch",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Hammer-Hand Pummel",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/130.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-131": {
+        "id": "gdz01-131",
+        "isToken": false,
+        "name": "Hedrium Ray",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 2,
+        "Keyword": [
+            "Deflect",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Hedrium Ray",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/131.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-132": {
+        "id": "gdz01-132",
+        "isToken": false,
+        "name": "Integrated Weapons",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "good",
+            "order"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Stun",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Integrated Weapons",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/132.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-133": {
+        "id": "gdz01-133",
+        "isToken": false,
+        "name": "Jet Haymaker",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "good",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Powerful",
+            "Punch",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Jet Haymaker",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/133.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-134": {
+        "id": "gdz01-134",
+        "isToken": false,
+        "name": "Jet Uppercut",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "good",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Deadlock Stun",
+            "Punch",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Jet Uppercut",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/134.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-135": {
+        "id": "gdz01-135",
+        "isToken": false,
+        "name": "Kaiju Brawl",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury"
+        ],
+        "face": {
+            "front": {
+                "name": "Kaiju Brawl",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/135.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-136": {
+        "id": "gdz01-136",
+        "isToken": false,
+        "name": "King Ghidorah Unleashed",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "evil",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "King Ghidorah Unleashed",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/136.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-137": {
+        "id": "gdz01-137",
+        "isToken": false,
+        "name": "Malevolent Slash",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Punch",
+            "Weapon"
+        ],
+        "face": {
+            "front": {
+                "name": "Malevolent Slash",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/137.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-138": {
+        "id": "gdz01-138",
+        "isToken": false,
+        "name": "Malicious Assault",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "evil",
+            "void"
+        ],
+        "cost": 7,
+        "Difficulty": 7,
+        "Check Value": 4,
+        "Keyword": [
+            "Fury",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Malicious Assault",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/138.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-139": {
+        "id": "gdz01-139",
+        "isToken": false,
+        "name": "Mecha Bombardment",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "fire",
+            "order",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Mecha Bombardment",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/139.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-140": {
+        "id": "gdz01-140",
+        "isToken": false,
+        "name": "Mechanical Monster",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "fire",
+            "order"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Powerful",
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Mechanical Monster",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/140.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-141": {
+        "id": "gdz01-141",
+        "isToken": false,
+        "name": "Micro-Oxygen Beam",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "life",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Stun"
+        ],
+        "face": {
+            "front": {
+                "name": "Micro-Oxygen Beam",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/141.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-142": {
+        "id": "gdz01-142",
+        "isToken": false,
+        "name": "Might of the Cosmos",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 1,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Might of the Cosmos",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/142.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-143": {
+        "id": "gdz01-143",
+        "isToken": false,
+        "name": "Monster vs Machine",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "life",
+            "order"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker",
+            "Powerful",
+            "Ranged",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Monster vs Machine",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/143.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-144": {
+        "id": "gdz01-144",
+        "isToken": false,
+        "name": "Monumental Dropkick",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Kick",
+            "Slam"
+        ],
+        "face": {
+            "front": {
+                "name": "Monumental Dropkick",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/144.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-145": {
+        "id": "gdz01-145",
+        "isToken": false,
+        "name": "Oxygen Destroyer",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "life",
+            "water"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Fury",
+            "Powerful"
+        ],
+        "face": {
+            "front": {
+                "name": "Oxygen Destroyer",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/145.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-146": {
+        "id": "gdz01-146",
+        "isToken": false,
+        "name": "Plant Tendrils",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Plant Tendrils",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/146.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-147": {
+        "id": "gdz01-147",
+        "isToken": false,
+        "name": "Plummeting Talon Strike",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "fire",
+            "void"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "EX"
+        ],
+        "face": {
+            "front": {
+                "name": "Plummeting Talon Strike",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/147.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-148": {
+        "id": "gdz01-148",
+        "isToken": false,
+        "name": "Queen of the Monsters",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "earth",
+            "good"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Charge",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Queen of the Monsters",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/148.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-149": {
+        "id": "gdz01-149",
+        "isToken": false,
+        "name": "Rapid-Fire Prism Beams",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Rapid-Fire Prism Beams",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/149.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-150": {
+        "id": "gdz01-150",
+        "isToken": false,
+        "name": "Series of Strikes",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "good",
+            "void"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 3,
+        "Keyword": [
+            "Punch",
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Series of Strikes",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/150.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-151": {
+        "id": "gdz01-151",
+        "isToken": false,
+        "name": "Silk Cocoon",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Powerful",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Silk Cocoon",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/151.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-152": {
+        "id": "gdz01-152",
+        "isToken": false,
+        "name": "Silk Rain",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Silk Rain",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/152.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-153": {
+        "id": "gdz01-153",
+        "isToken": false,
+        "name": "Sky-Piercing Heat Ray",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Sky-Piercing Heat Ray",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/153.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-154": {
+        "id": "gdz01-154",
+        "isToken": false,
+        "name": "Thermal Flame",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Echo",
+            "Frenzy",
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Thermal Flame",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/154.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-155": {
+        "id": "gdz01-155",
+        "isToken": false,
+        "name": "Triple Beam",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "death",
+            "evil"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            "Ranged"
+        ],
+        "face": {
+            "front": {
+                "name": "Triple Beam",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/155.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-156": {
+        "id": "gdz01-156",
+        "isToken": false,
+        "name": "Winged Death",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "void"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 3,
+        "Keyword": [
+            "Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Winged Death",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/156.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-157": {
+        "id": "gdz01-157",
+        "isToken": false,
+        "name": "Wrecking the City",
+        "type": "Attack",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 4,
+        "Difficulty": 4,
+        "Check Value": 3,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Wrecking the City",
+                "type": "Attack",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/157.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-158": {
+        "id": "gdz01-158",
+        "isToken": false,
+        "name": "Artificial Power",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "evil",
+            "order"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            "Tech"
+        ],
+        "face": {
+            "front": {
+                "name": "Artificial Power",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/158.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-159": {
+        "id": "gdz01-159",
+        "isToken": false,
+        "name": "Battra Arrives",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Battra Arrives",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/159.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-160": {
+        "id": "gdz01-160",
+        "isToken": false,
+        "name": "Biollante Arrives",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Biollante Arrives",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/160.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-161": {
+        "id": "gdz01-161",
+        "isToken": false,
+        "name": "Blooming Beast",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 6,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Blooming Beast",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/161.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-162": {
+        "id": "gdz01-162",
+        "isToken": false,
+        "name": "Brace for Impact",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "good",
+            "order"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Deadlock Breaker"
+        ],
+        "face": {
+            "front": {
+                "name": "Brace for Impact",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/162.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-163": {
+        "id": "gdz01-163",
+        "isToken": false,
+        "name": "Brush Off",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "good",
+            "order"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Brush Off",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/163.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-164": {
+        "id": "gdz01-164",
+        "isToken": false,
+        "name": "Brutal Fighting Style",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Brutal Fighting Style",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/164.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-165": {
+        "id": "gdz01-165",
+        "isToken": false,
+        "name": "Can't Escape Me",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Can't Escape Me",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/165.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-166": {
+        "id": "gdz01-166",
+        "isToken": false,
+        "name": "Combined Perfect Form",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "life",
+            "water"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Combined Perfect Form",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/166.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-167": {
+        "id": "gdz01-167",
+        "isToken": false,
+        "name": "Countermeasure",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Countermeasure",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/167.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-168": {
+        "id": "gdz01-168",
+        "isToken": false,
+        "name": "Dangerous Rival",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Dangerous Rival",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/168.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-169": {
+        "id": "gdz01-169",
+        "isToken": false,
+        "name": "Deft Approach",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "fire",
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Deft Approach",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/169.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-170": {
+        "id": "gdz01-170",
+        "isToken": false,
+        "name": "Divine Defender",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "good",
+            "order"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Divine Defender",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/170.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-171": {
+        "id": "gdz01-171",
+        "isToken": false,
+        "name": "Drawing Power",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Drawing Power",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/171.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-172": {
+        "id": "gdz01-172",
+        "isToken": false,
+        "name": "Fearsome Durability",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Deflect"
+        ],
+        "face": {
+            "front": {
+                "name": "Fearsome Durability",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/172.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-173": {
+        "id": "gdz01-173",
+        "isToken": false,
+        "name": "Godzilla vs Biollante",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "life",
+            "water"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla vs Biollante",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/173.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-174": {
+        "id": "gdz01-174",
+        "isToken": false,
+        "name": "Godzilla vs Gigan",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "all",
+            "evil"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla vs Gigan",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/174.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-175": {
+        "id": "gdz01-175",
+        "isToken": false,
+        "name": "Godzilla vs Mechagodzilla",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "good",
+            "order"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            "Unique"
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla vs Mechagodzilla",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/175.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-176": {
+        "id": "gdz01-176",
+        "isToken": false,
+        "name": "Godzilla vs SpaceGodzilla",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla vs SpaceGodzilla",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/176.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-177": {
+        "id": "gdz01-177",
+        "isToken": false,
+        "name": "Godzilla's First Emergence",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "earth",
+            "fire",
+            "water"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Godzilla's First Emergence",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/177.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-178": {
+        "id": "gdz01-178",
+        "isToken": false,
+        "name": "Immense Showdown",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "good"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Immense Showdown",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/178.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-179": {
+        "id": "gdz01-179",
+        "isToken": false,
+        "name": "Numbers Advantage",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "death",
+            "evil"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Numbers Advantage",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/179.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-180": {
+        "id": "gdz01-180",
+        "isToken": false,
+        "name": "Recombining Body",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "death",
+            "earth",
+            "water"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            "Deflect"
+        ],
+        "face": {
+            "front": {
+                "name": "Recombining Body",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/180.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-181": {
+        "id": "gdz01-181",
+        "isToken": false,
+        "name": "Shin Godzilla Arrives",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "death",
+            "life"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Shin Godzilla Arrives",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/181.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-182": {
+        "id": "gdz01-182",
+        "isToken": false,
+        "name": "Soaring in the Skies",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "fire",
+            "void"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Soaring in the Skies",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/182.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-183": {
+        "id": "gdz01-183",
+        "isToken": false,
+        "name": "Twisted Reflection",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "evil",
+            "void"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Twisted Reflection",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/183.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-184": {
+        "id": "gdz01-184",
+        "isToken": false,
+        "name": "Unyielding Force",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "earth",
+            "fire"
+        ],
+        "cost": 5,
+        "Difficulty": 5,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Unyielding Force",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/184.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-185": {
+        "id": "gdz01-185",
+        "isToken": false,
+        "name": "Wrathful Spirit",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "air",
+            "order",
+            "void"
+        ],
+        "cost": 1,
+        "Difficulty": 1,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Wrathful Spirit",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/185.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-186": {
+        "id": "gdz01-186",
+        "isToken": false,
+        "name": "Xilien Agent",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "all",
+            "chaos",
+            "evil"
+        ],
+        "cost": 2,
+        "Difficulty": 2,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "Xilien Agent",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/186.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
+    "gdz01-187": {
+        "id": "gdz01-187",
+        "isToken": false,
+        "name": "History's Greatest Monster",
+        "type": "Foundation",
+        "Set": "Godzilla: Reign of Kaiju",
+        "Symbol": [
+            "chaos",
+            "earth",
+            "water"
+        ],
+        "cost": 3,
+        "Difficulty": 3,
+        "Check Value": 5,
+        "Keyword": [
+            ""
+        ],
+        "face": {
+            "front": {
+                "name": "History's Greatest Monster",
+                "type": "Foundation",
+                "cost": 0,
+                "image": "https://universus.cards/cards/gdz01/187.jpg",
+                "isHorizontal": false
+            }
+        }
+    },
     "kf01-001": {
         "id": "kf01-001",
         "isToken": false,
