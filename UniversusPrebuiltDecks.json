@@ -10,7 +10,7 @@
         "format": [
             "Classic"
         ],
-        "title": "Challenger Deck: KOF XV - Team Hero",
+        "title": "Challenger Deck: KOF XV - Hero",
         "deckList": {
             "categoriesOrder": [
                 "Character",
@@ -116,7 +116,7 @@
                 }
             ]
         },
-        "id": "3e17d7cb-58a1-4a3c-94e6-8861820f8550",
+        "id": "Challenger Deck: KOF XV - Hero",
         "lastModifiedAt": {
             "type": "firestore/timestamp/1.0",
             "seconds": 1773373865,
@@ -134,7 +134,7 @@
         "format": [
             "Classic"
         ],
-        "title": "Challenger Deck: KOF XV - Team Rival",
+        "title": "Challenger Deck: KOF XV - Rival",
         "deckList": {
             "categoriesOrder": [
                 "Character",
@@ -240,7 +240,7 @@
                 }
             ]
         },
-        "id": "3e17d7cb-58a1-4a3c-94e6-8861820f8550",
+        "id": "Challenger Deck: KOF XV - Rival",
         "lastModifiedAt": {
             "type": "firestore/timestamp/1.0",
             "seconds": 1773373865,
